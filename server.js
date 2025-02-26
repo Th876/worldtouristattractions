@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
+const cors = require('cors'); // Add this
 require('dotenv').config();
 const City = require('./models/City');  // City model
 
@@ -9,16 +10,18 @@ const PORT = process.env.PORT || 5001;
 
 // Middleware to parse JSON data
 app.use(bodyParser.json());
+app.use(cors()); // Add this to allow cross-origin requests
 
-// Connect to MongoDB Atlas (replace with your Atlas connection string)
-mongoose.connect(process.env.MONGO_URI)
+// Connect to MongoDB Atlas
+mongoose.connect(process.env.MONGO_URI, {serverSelectionTimeoutMS: 10000, 
+socketTimeoutMS: 45000})
 .then(() => console.log('Connected to MongoDB'))
 .catch(err => console.log('MongoDB connection error:', err));
 
 // Route to fetch cities based on user input
 app.get('/cities', async (req, res) => {
     const { name, country } = req.query;
-    console.log('Received Query Params:', { name, country }); // LOG THIS
+    console.log('Received Query Params:', { name, country });
   
     try {
         const cities = await City.find({
@@ -33,15 +36,14 @@ app.get('/cities', async (req, res) => {
         res.status(404).json({ message: 'No matching city found. Try another search!' });
       }
     } catch (err) {
-      console.error('Error fetching cities:', err); // LOG THIS
+      console.error('Error fetching cities:', err); 
       res.status(500).json({ message: 'Error fetching cities', error: err });
     }
-  });
-  
+});
 
-// Route to single objects and arrays
+// Route to add cities
 app.post('/cities', async (req, res) => {
-    console.log('Received Data:', req.body); // Debugging
+    console.log('Received Data:', req.body); 
 
     try {
         let citiesToAdd = Array.isArray(req.body) ? req.body : [req.body]; // Convert single object to array
@@ -52,8 +54,6 @@ app.post('/cities', async (req, res) => {
         res.status(500).json({ message: 'Error adding cities', error: err });
     }
 });
-
-
 
 // Start the server
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
