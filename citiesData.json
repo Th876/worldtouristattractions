@@ -1,0 +1,28 @@
+[{
+  "name": "Vienna", 
+  "country": "Austria",
+  "attractions": [
+    {
+      "name": "Schönbrunn Palace",
+      "imageUrl": "https://images.pexels.com/photos/93702/pexels-photo-93702.jpeg"
+    },
+    {
+      "name": "Belvedere Palace",
+      "imageUrl": "https://images.pexels.com/photos/5997778/pexels-photo-5997778.jpeg"
+    }
+  ]
+},
+{
+  "name": "New York",  
+  "country": "United States",
+  "attractions": [
+    {
+      "name": "Statue of Liberty",
+      "imageUrl": "https://images.pexels.com/photos/64271/queen-of-liberty-statue-of-liberty-new-york-liberty-statue-64271.jpeg"
+    },
+    {
+      "name": "Central Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Central_Park_during_Autumn%2C_NYC.jpg/1920px-Central_Park_during_Autumn%2C_NYC.jpg"
+    }
+  ]
+}]
