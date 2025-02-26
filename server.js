@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
+require('dotenv').config();
 const City = require('./models/City');  // City model
 
 const app = express();
@@ -10,7 +11,8 @@ const PORT = process.env.PORT || 5001;
 app.use(bodyParser.json());
 
 // Connect to MongoDB Atlas (replace with your Atlas connection string)
-mongoose.connect(process.env.MONGO_URI)
+mongoose.connect(process.env.MONGO_URI, {serverSelectionTimeoutMS: 10000, 
+socketTimeoutMS: 45000})
 .then(() => console.log('Connected to MongoDB'))
 .catch(err => console.log('MongoDB connection error:', err));
 
