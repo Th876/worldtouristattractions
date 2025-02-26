@@ -11,8 +11,7 @@ const PORT = process.env.PORT || 5001;
 app.use(bodyParser.json());
 
 // Connect to MongoDB Atlas (replace with your Atlas connection string)
-mongoose.connect(process.env.MONGO_URI, {serverSelectionTimeoutMS: 10000, 
-socketTimeoutMS: 45000})
+mongoose.connect(process.env.MONGO_URI)
 .then(() => console.log('Connected to MongoDB'))
 .catch(err => console.log('MongoDB connection error:', err));
 
