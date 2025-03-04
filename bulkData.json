@@ -1,0 +1,2890 @@
+[{
+  "name": "Sydney",
+  "country": "Australia",
+  "attractions": [
+    {
+      "name": "Sydney Opera House",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
+      "description": "One of the world's most famous architectural landmarks, hosting opera, theater, and musical performances.",
+      "ticket": "https://www.sydneyoperahouse.com/tours/sydney-opera-house-tour"
+    },
+    {
+      "name": "Sydney Harbour Bridge",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg/500px-Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2179.jpg",
+      "description": "An iconic steel bridge offering climbing tours for breathtaking views of the Sydney skyline.",
+      "ticket": "https://www.bridgeclimb.com/climbs-prices/prices"
+    },
+    {
+      "name": "Bondi Beach",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/55/92.jpg",
+      "description": "A world-famous beach known for its golden sands, surfing waves, and vibrant coastal atmosphere.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Melbourne",
+  "country": "Australia",
+  "attractions": [
+    {
+      "name": "Federation Square",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fed_Square%2C_Melbourne%2C_west_view_20230219_1.jpg/1200px-Fed_Square%2C_Melbourne%2C_west_view_20230219_1.jpg",
+      "description": "A cultural hub featuring museums, galleries, and lively events in the heart of Melbourne.",
+      "ticket": "free"
+    },
+    {
+      "name": "Royal Botanic Gardens",
+      "imageUrl": "https://aws-tiqets-cdn.imgix.net/images/content/13673f1a81a64a9b8446195a97022def.jpeg?auto=format%2Ccompress&fit=crop&ixlib=python-3.2.1&q=70",
+      "description": "A stunning garden showcasing diverse plant life, walking trails, and tranquil lakes.",
+      "ticket": "free"
+    },
+    {
+      "name": "Queen Victoria Market",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/72/6e/20/discover-the-variety.jpg?w=1200&h=1200&s=1",
+      "description": "A historic marketplace offering fresh produce, souvenirs, and a taste of Melbourne’s food scene.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Brisbane",
+  "country": "Australia",
+  "attractions": [
+    {
+      "name": "South Bank Parklands",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Streets_Beach_at_South_Bank_Parklands%2C_Brisbane_03.jpg",
+      "description": "A riverside park featuring lush gardens, walking trails, and an artificial beach.",
+      "ticket": "free"
+    },
+    {
+      "name": "Lone Pine Koala Sanctuary",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/13/d2/03/be.jpg",
+      "description": "The world's oldest and largest koala sanctuary, where visitors can cuddle koalas and feed kangaroos.",
+      "ticket": "https://ecom.roller.app/lonepinekoalasanctuary/newprogressivecheckout/en/product/491259?date=2024-01-05&product=491259"
+    },
+    {
+      "name": "Story Bridge Adventure Climb",
+      "imageUrl": "https://d1awz198bamix0.cloudfront.net/crystalbrookcollection.com-2608238329/cms/cache/v2/646c14fb15d8e.jpeg/1679x941/fit;c:1,0,1680,941/80/5b9e80bb3aec1d896f7eb1b8a8f3bf07.jpg",
+      "description": "A thrilling climb that offers stunning panoramic views of the Brisbane skyline.",
+      "ticket": "https://secure.storybridgeadventureclimb.com.au/BookingProduct/AvailabilityBook/?_gl=1*1sxfet6*_gcl_au*OTU4OTE3NzM0LjE3NDA4NjY1OTI.*_ga*NDg3NTgwNTc4LjE3NDA4NjY1OTM.*_ga_2672VW33KL*MTc0MDg2NjU5Mi4xLjAuMTc0MDg2NjU5Mi42MC4wLjUzMjgxNjY2OA.."
+    }
+  ]
+},
+{
+  "name": "Baku",
+  "country": "Azerbaijan",
+  "attractions": [
+    {
+      "name": "Flame Towers",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/b0/f1.jpg",
+      "description": "A trio of modern skyscrapers that light up Baku’s skyline with dazzling LED displays.",
+      "ticket": "free"
+    },
+    {
+      "name": "Old City (Icherisheher)",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/46/30/1d.jpg",
+      "description": "A UNESCO-listed historic area featuring narrow alleyways, ancient mosques, and the iconic Maiden Tower.",
+      "ticket": "free"
+    },
+    {
+      "name": "Heydar Aliyev Center",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/a8/aa/75/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A masterpiece of modern architecture designed by Zaha Hadid, hosting exhibitions and cultural events.",
+      "ticket": "https://heydaraliyevcenter.az/#main"
+    }
+  ]
+},
+{
+  "name": "Gabala",
+  "country": "Azerbaijan",
+  "attractions": [
+    {
+      "name": "Tufandag Mountain Resort",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/90/81/80/tufandag-mountain-resort.jpg?w=900&h=-1&s=1",
+      "description": "A popular ski and adventure resort offering year-round outdoor activities.",
+      "ticket": "https://www.tufandag.com/en/tickets-ski-passes"
+    },
+    {
+      "name": "Nohur Lake",
+      "imageUrl": "https://ati.az/storage/uploads/rich_text/aa2XeksLrPdDYZ5n1708844113_780x585.jpg",
+      "description": "A scenic lake surrounded by lush forests, ideal for boating and picnicking inside the Goygol National Park.",
+      "ticket": "https://evendo.com/locations/azerbaijan/yevlakh/attraction/goygol-national-park"
+    },
+    {
+      "name": "Gabala Shooting Club",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8e/6e/96/20190721-150537-largejpg.jpg?w=900&h=-1&s=1",
+      "description": "A state-of-the-art shooting range where visitors can experience various shooting sports.",
+      "ticket": "https://api.whatsapp.com/send?phone=994502905080&text=Hello%20Dear%20Guest%2C%0A%0AHow%20can%20we%20help%20you%3F"
+    }
+  ]
+},
+{
+  "name": "Sheki",
+  "country": "Azerbaijan",
+  "attractions": [
+    {
+      "name": "Sheki Khan's Palace",
+      "imageUrl": "https://wander-lush.org/wp-content/uploads/2023/06/Emily-Lush-Sheki-Azerbaijan-Palace-of-the-Sheki-Khan-Hero.jpg",
+      "description": "A stunning 18th-century palace with intricate stained-glass windows and exquisite frescoes.",
+      "ticket": "https://iticket.az/en/events/tourism/sheki-khans-palace"
+    },
+    {
+      "name": "Caravanserai",
+      "imageUrl": "https://visitsilkroad.org/wp-content/uploads/2021/06/Shaki-Karvansaray-featured_image.jpg",
+      "description": "A historic roadside inn where Silk Road merchants once stayed, now a hotel and museum.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Nassau",
+  "country": "Bahamas",
+  "attractions": [
+    {
+      "name": "Blue Lagoon Island",
+      "imageUrl": "https://www.royalcaribbeanblog.com/sites/default/files/blog-images/DSC_0355_2.jpg",
+      "description": "A private island offering pristine beaches, marine animal encounters, and water activities.",
+      "ticket": "https://shop.dolphinencounters.com/#/"
+    },
+    {
+      "name": "Aquaventure Water Park",
+      "imageUrl": "https://travelwithbender.com/files/cache/c320b42c6ddf97d48a9cc2958482d6c4_f6652.jpg",
+      "description": "A 141-acre water park featuring thrilling water slides, river rides, and marine habitats at Atlantis Paradise Island.",
+      "ticket": "https://www.atlantisbahamas.com/daybooking"
+    },
+    {
+      "name": "Queen's Staircase",
+      "imageUrl": "https://queensstaircase.info/wp-content/uploads/2022/12/Queens-Staircase.jpg",
+      "description": "A historic staircase of 66 steps, carved out of limestone by slaves in the 18th century, leading to Fort Fincastle.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Freeport",
+  "country": "Bahamas",
+  "attractions": [
+    {
+      "name": "Garden of the Groves",
+      "imageUrl": "https://i.pinimg.com/736x/c1/62/b7/c162b7e8d66d339d426e90f10a27449f.jpg",
+      "description": "A lush botanical garden featuring waterfalls, walking paths, and a variety of tropical plants and birds.",
+      "ticket": "https://www.thegardenofthegroves.com/visit"
+    },
+    {
+      "name": "Taino Beach",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/110000/110460-Freeport-And-Vicinity.jpg",
+      "description": "A beautiful beach known for its white sands, clear waters, and a variety of water sports activities.",
+      "ticket": "https://www.resortpass.com/hotels/taino-beach-resort-clubs"
+    },
+    {
+      "name": "Port Lucaya Marketplace",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/38/20/19/port-lacaya-market.jpg",
+      "description": "A vibrant marketplace offering shopping, dining, and entertainment, reflecting Bahamian culture.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Bridgetown",
+  "country": "Barbados",
+  "attractions": [
+    {
+      "name": "Hunte's Gardens",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/72/35/3d/huntes-gardens.jpg?w=900&h=500&s=1",
+      "description": "A lush botanical garden showcasing a variety of tropical plants, offering a serene and enchanting experience.",
+      "ticket": "https://www.huntesgardens-barbados.com/"
+    },
+    {
+      "name": "Carlisle Bay",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Carlisle_Bay%2C_Barbados.jpg",
+      "description": "A beautiful bay known for its clear waters and marine life, making it ideal for swimming and snorkeling.",
+      "ticket": "free"
+    },
+    {
+      "name": "Harrison's Cave Eco-Adventure Park",
+      "imageUrl": "https://travel.usnews.com/images/Harrisons_Cave_Barbados.jpg",
+      "description": "A crystallized limestone cavern featuring flowing streams, deep pools, and towering columns.",
+      "ticket": "https://chukka.com/barbados/bbhcp"
+    }
+  ]
+},
+{
+  "name": "Brussels",
+  "country": "Belgium",
+  "attractions": [
+    {
+      "name": "Grand Place",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg",
+      "description": "A UNESCO World Heritage site, this central square is renowned for its opulent architecture and vibrant atmosphere.",
+      "ticket": "free"
+    },
+    {
+      "name": "Atomium",
+      "imageUrl": "https://aws-tiqets-cdn.imgix.net/images/content/e077651358fc4688bc1eb5611bd4ed54.jpg?auto=format&fit=crop&q=75&w=250&h=250?auto=format&fit=crop&q=75&w=375&h=375",
+      "description": "A unique structure representing an iron crystal magnified 165 billion times, offering panoramic views of Brussels.",
+      "ticket": "https://www.atomium.be/atomium-price?lang=en"
+    },
+    {
+      "name": "Manneken Pis",
+      "imageUrl": "https://focusonbelgium.be/sites/default/files/styles/big_article_image/public/manneken2.jpg?itok=LNlO4WCl",
+      "description": "A famous bronze statue of a little boy urinating into a fountain, symbolizing the irreverent spirit of Brussels.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Bruges",
+  "country": "Belgium",
+  "attractions": [
+    {
+      "name": "Historic Centre of Brugge",
+      "imageUrl": "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/413904d5-386b-4c7f-a9b6-585fb4ac38b6-visitbruges_jandhondt_506.jpg?q=90",
+      "description": "A well-preserved medieval city center with cobblestone streets, canals, and historic buildings.",
+      "ticket": "free"
+    },
+    {
+      "name": "The Markt",
+      "imageUrl": "https://mediaim.expedia.com/destination/1/010f435f3f73a6aee7e3bcc6871c29bf.jpg",
+      "description": "The bustling main square of Bruges, surrounded by colorful buildings and lively cafes.",
+      "ticket": "free"
+    },
+    {
+      "name": "Belfry of Bruges",
+      "imageUrl": "https://www.museabrugge.be/volumes/general/_1200x630_crop_center-center_82_none/Belfort-met-panorama22_Musea-Brugge.f1664971276.jpg?mtime=1664971276",
+      "description": "A medieval bell tower offering panoramic views of the city from its 83-meter height.",
+      "ticket": "https://www.museabrugge.be/en/tickets-belfry"
+    }
+  ]
+},
+{
+  "name": "Rio de Janeiro",
+  "country": "Brazil",
+  "attractions": [
+    {
+      "name": "Christ the Redeemer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/1200px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "description": "An iconic 30-meter tall statue of Jesus Christ atop Corcovado Mountain, offering panoramic views of the city.",
+      "ticket": "https://www.tremdocorcovado.rio/"
+    },
+    {
+      "name": "Sugarloaf Mountain",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+      "description": "A granite peak rising 396 meters, accessible by cable car, providing breathtaking vistas of Rio de Janeiro.",
+      "ticket": "https://bondinho.com.br/"
+    },
+    {
+      "name": "Copacabana Beach",
+      "imageUrl": "https://travel.usnews.com/images/GettyImages-1295425390.jpg",
+      "description": "A world-famous 4 km stretch of white sand beach, bustling with activity and lined with shops and restaurants.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "São Paulo",
+  "country": "Brazil",
+  "attractions": [
+    {
+      "name": "Ibirapuera Park",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/7e/0a.jpg",
+      "description": "A vast urban park featuring lakes, museums, and cultural institutions, serving as a green oasis in the city.",
+      "ticket": "free"
+    },
+    {
+      "name": "São Paulo Museum of Art (MASP)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fe/64/8d/masp-en-la-avenida-paulista.jpg?w=900&h=500&s=1",
+      "description": "Renowned for its striking modern architecture and extensive collection of Western art.",
+      "ticket": "https://masp.org.br/en/visit"
+    }
+  ]
+},
+{
+  "name": "Salvador",
+  "country": "Brazil",
+  "attractions": [
+    {
+      "name": "Pelourinho",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/43/ac/8f/pelourinho.jpg?w=900&h=500&s=1",
+      "description": "The historic center of Salvador, known for its colorful colonial architecture and vibrant cultural scene.",
+      "ticket": "free"
+    },
+    {
+      "name": "Elevador Lacerda",
+      "imageUrl": "https://elevatorworld.com/wp-content/uploads/2023/12/OTIS-BRAZIL-SELECTED-FOR-ELEVADOR-LACERDA-MODERNIZATION.jpg",
+      "description": "An iconic public elevator connecting the lower city to the upper city, offering panoramic views of the bay.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Toronto",
+  "country": "Canada",
+  "attractions": [
+    {
+      "name": "CN Tower",
+      "imageUrl": "https://media.cntraveler.com/photos/5b2c0684a98055277ea83e26/16:9/w_2560,c_limit/CN-Tower_GettyImages-615764386.jpg",
+      "description": "A defining feature of Toronto's skyline, offering panoramic city views from its observation decks.",
+      "ticket": "https://www.cntower.ca/plan-your-visit/tickets-and-hours/tickets"
+    },
+    {
+      "name": "Royal Ontario Museum (ROM)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7d/a8/dd/caption.jpg?w=1200&h=-1&s=1",
+      "description": "Canada's largest museum, showcasing art, culture, and nature from around the world.",
+      "ticket": "https://www.rom.on.ca/visit/visitor-information"
+    },
+    {
+      "name": "Ripley's Aquarium of Canada",
+      "imageUrl": "https://seeyousoon.ca/wp-content/uploads/2020/07/Ripleys-Aquarium-of-Canada.jpg",
+      "description": "An expansive aquarium featuring diverse marine life and interactive exhibits.",
+      "ticket": "https://www.ripleys.com/attractions/ripleys-aquarium-of-canada"
+    }
+  ]
+},
+{
+  "name": "Vancouver",
+  "country": "Canada",
+  "attractions": [
+    {
+      "name": "Stanley Park",
+      "imageUrl": "https://i0.wp.com/vancouversbestplaces.com/wp-content/uploads/2020/08/Stanley-Park-Lighthouse-by-On-the-Mark-Drone-Services.jpg?resize=640%2C353&ssl=1",
+      "description": "A vast urban park offering scenic views, walking trails, and cultural landmarks.",
+      "ticket": "free"
+    },
+    {
+      "name": "Granville Island",
+      "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F794965399%2F296218901481%2F1%2Foriginal.20240624-060458?w=600&auto=format%2Ccompress&q=75&sharp=10&rect=215%2C0%2C3816%2C1908&s=60719f0a28c18b464d0f9df2c1131f0a",
+      "description": "A vibrant cultural hub known for its public market, artisan workshops, and entertainment venues.",
+      "ticket": "https://granvilleisland.com/plan-your-visit"
+    },
+    {
+      "name": "Capilano Suspension Bridge",
+      "imageUrl": "https://www.capbridge.com/wp-content/uploads/2024/07/tickets_hours_hero-1.jpg",
+      "description": "A thrilling suspension bridge spanning 137 meters across the Capilano River.",
+      "ticket": "https://www.capbridge.com/tickets-and-hours/"
+    }
+  ]
+},
+{
+  "name": "Montreal",
+  "country": "Canada",
+  "attractions": [
+    {
+      "name": "Old Montreal (Vieux-Montréal)",
+      "imageUrl": "https://travel.usnews.com/images/Vieux_Montreal_2__Eva_Blue_-_Tourisme_Montreal.jpg",
+      "description": "A historic district featuring cobblestone streets, colonial-era architecture, and vibrant plazas.",
+      "ticket": "free"
+    },
+    {
+      "name": "Montreal Museum of Fine Arts (MMFA)",
+      "imageUrl": "https://www.mbam.qc.ca/workspace/uploads/config/aproposdumusee_en-te-te_pav-desmarais_cg_meta-fr-1585343418.jpg",
+      "description": "One of Canada's most prominent art museums, housing an extensive collection of artworks.",
+      "ticket": "https://www.mbam.qc.ca/en/tickets/"
+    },
+    {
+      "name": "Mont Royal",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/5cd1930be8842.jpeg/99.jpg",
+      "description": "A large volcanic-related hill offering panoramic city views and recreational activities.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Beijing",
+  "country": "China",
+  "attractions": [
+    {
+      "name": "Great Wall of China (Mutianyu Section)",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/b3f430a1e29b4d3c175735363fef91de6d35a49fea8f13f516720c73d2440370.png/145.jpg",
+      "description": "A well-preserved section of the ancient wall offering stunning views and historical significance.",
+      "ticket": "https://en.mutianyugreatwall.com/#:~:text=%E3%80%90Explore%20Fun%E3%80%91One%2DDay,surrounded%20by%20mountains%20and%20forests."
+    },
+    {
+      "name": "Forbidden City",
+      "imageUrl": "https://i0.wp.com/rachelmeetschina.com/wp-content/uploads/2024/08/forbidden-city-7563004_1280.jpg?ssl=1",
+      "description": "A vast imperial palace complex that served as the home of emperors for nearly 500 years.",
+      "ticket": "https://www.forbiddencitytickets.com/"
+    },
+    {
+      "name": "Temple of Heaven",
+      "imageUrl": "https://www.forbiddencitytickets.com/attractions/temple-of-heaven/Temple-of-heaven%20-4-.png",
+      "description": "A historic temple complex where emperors performed ceremonial rites to ensure good harvests.",
+      "ticket": "https://www.travelchinaguide.com/temple-of-heaven-tickets-booking.htm?srsltid=AfmBOorX8DPYY9hah_oJ7vixWaJqJgDiqSuNSetH5OTT0xzyw55q8Zj0"
+    }
+  ]
+},
+{
+  "name": "Shanghai",
+  "country": "China",
+  "attractions": [
+    {
+      "name": "The Bund",
+      "imageUrl": "https://www.asiaodysseytravel.com/images/china-tours/group-tours/the-bund-700-4.jpg",
+      "description": "A waterfront promenade known for its colonial-era architecture and stunning views of the modern skyline.",
+      "ticket": "free"
+    },
+    {
+      "name": "Yu Garden",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/de/b3/34.jpg",
+      "description": "A classical Chinese garden featuring traditional architecture, ponds, and lush greenery.",
+      "ticket": "https://www.travelchinaguide.com/yu-garden-ticket-booking.htm?srsltid=AfmBOopdWrl97GmhDbi61kiRAkb--Nz1Ao1xyroYXxe_96l224FcRqXH"
+    },
+    {
+      "name": "Shanghai Tower",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/a6/25/1f.jpg",
+      "description": "The tallest building in China, offering breathtaking city views from its observation deck.",
+      "ticket": "https://www.travelchinaguide.com/shanghai-tower-tickets-booking.htm?srsltid=AfmBOop-jEDWheszFlKhLUw11mpH3pKsiCW6O2FvuJXl1C0rQ_UF_Jg-"
+    }
+  ]
+},
+{
+  "name": "Chengdu",
+  "country": "China",
+  "attractions": [
+    {
+      "name": "Chengdu Research Base of Giant Panda Breeding",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/13/16/7d/cf.jpg",
+      "description": "A world-renowned conservation center where visitors can see giant pandas up close in a naturalistic setting.",
+      "ticket": "https://www.panda.org.cn/en/service/ticket/"
+    },
+    {
+      "name": "Jinli Ancient Street",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/70/36/be/colourful-vibrant.jpg?w=900&h=-1&s=1",
+      "description": "A historic street featuring traditional Sichuan-style architecture, delicious street food, and vibrant nightlife.",
+      "ticket": "free"
+    },
+    {
+      "name": "Wuhou Shrine",
+      "imageUrl": "https://ruqintravel.com/wp-content/uploads/2024/10/Chengdu-Wuhou-Temple-1.webp",
+      "description": "A famous temple dedicated to Zhuge Liang, the legendary strategist of the Three Kingdoms period.",
+      "ticket": "https://en.wuhouci.net.cn/visit-ticket.html"
+    },
+    {
+      "name": "Leshan Giant Buddha",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/x0yivn8swfij2oqeogq3/LeshanGiantBuddhaTicketChengdu(GiantBuddha+EasternBuddha).jpg",
+      "description": "The world's largest stone Buddha statue, carved into a cliffside overlooking the confluence of three rivers.",
+      "ticket": "https://www.viator.com/Chengdu-attractions/Leshan-Giant-Buddha/d322-a7877"
+    },
+    {
+      "name": "Mount Qingcheng",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/a1jdylkn3zwdv85ghazf/Mount%20Qingcheng%20Ticket%20Chengdu%2C%20China.jpg",
+      "description": "A UNESCO World Heritage Site and one of the birthplaces of Taoism, featuring lush green landscapes and ancient temples.",
+      "ticket": "https://www.travelchinaguide.com/attraction/sichuan/mount-qingcheng-tickets-booking.htm?srsltid=AfmBOoqK0bBEaWM-mx2do7gZ9IumRGc94w3pqsk9cvzTLDr3QpCzKX1q"
+    }
+  ]
+},
+{
+  "name": "Bogotá",
+  "country": "Colombia",
+  "attractions": [
+    {
+      "name": "Mount Monserrate",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/b7/b5/57.jpg",
+      "description": "A mountain that dominates the city center of Bogotá, offering panoramic views and a historic church at its summit.",
+      "ticket": "https://www.tiqets.com/widgets/product/1003913?partner=monserrate.co&currency=USD&language=en"
+    },
+    {
+      "name": "Gold Museum (Museo del Oro)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8e/65/b9/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A museum showcasing a vast collection of pre-Columbian gold artifacts, highlighting the rich heritage of Colombia's indigenous cultures.",
+      "ticket": "https://www.visitingbogota.com/en/museo-del-oro/#:~:text=From%20Tuesday%20to%20Saturday%20and,over%20the%20age%20of%2060."
+    },
+    {
+      "name": "La Candelaria",
+      "imageUrl": "https://kittiaroundtheworld.com/wp-content/uploads/2023/12/La-Candelaria-Neighbourhood.jpg",
+      "description": "The historic heart of Bogotá, featuring colonial architecture, vibrant street art, and numerous cultural institutions.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Medellín",
+  "country": "Colombia",
+  "attractions": [
+    {
+      "name": "Plaza Botero",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4d/1b/f6/plaza-botero.jpg?w=900&h=500&s=1",
+      "description": "A public square displaying 23 sculptures by renowned Colombian artist Fernando Botero, located in the heart of Medellín.",
+      "ticket": "free"
+    },
+    {
+      "name": "Comuna 13",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/81/82/38.jpg",
+      "description": "A neighborhood known for its vibrant street art and remarkable transformation, offering guided tours that showcase its history and culture.",
+      "ticket": "https://www.tripadvisor.com/Attraction_Review-g297478-d17540396-Reviews-Comuna_13-Medellin_Antioquia_Department.html"
+    },
+    {
+      "name": "Arví Park (Parque Arví)",
+      "imageUrl": "https://whereshetravels.com/wp-content/uploads/2024/02/medellin-arvi-river-horiz.jpg",
+      "description": "An ecological nature reserve offering hiking trails, picnic areas, and a cable car ride with scenic views of the city.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Cartagena",
+  "country": "Colombia",
+  "attractions": [
+    {
+      "name": "Walled City of Cartagena",
+      "imageUrl": "https://cartagenacolombiarentals.com/wp-content/uploads/2016/02/92693253_m-e1630504558426.jpg",
+      "description": "A UNESCO World Heritage site featuring well-preserved colonial architecture, cobblestone streets, and vibrant plazas.",
+      "ticket": "free"
+    },
+    {
+      "name": "Castillo San Felipe de Barajas",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/92/ac/5e.jpg",
+      "description": "A historic fortress built in the 17th century to protect the city from invasions, offering panoramic views and underground tunnels.",
+      "ticket": "https://fortificacionescartagena.com.co/en/castle-of-san-felipe-de-barajas/"
+    },
+    {
+      "name": "Rosario Islands",
+      "imageUrl": "https://two.travel/wp-content/uploads/2022/04/rosario_islands-2.jpg",
+      "description": "A group of coral islands located off the coast, known for their crystal-clear waters, coral reefs, and diverse marine life.",
+      "ticket": "https://www.viator.com/Cartagena-attractions/Rosario-Islands/d4498-a6191"
+    }
+  ]
+},
+{
+  "name": "San José",
+  "country": "Costa Rica",
+  "attractions": [
+    {
+      "name": "National Theater of Costa Rica",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f8/fa.jpg",
+      "description": "A historic theater known for its exquisite architecture and cultural performances.",
+      "ticket": "https://www.viator.com/tours/San-Jose/Teatro-Nacional-Admission-Ticket/d793-47403TNCR"
+    },
+    {
+      "name": "Pre-Columbian Gold Museum",
+      "imageUrl": "https://image.wmsm.co/64d613cd32681/pre-columbian-gold-museum-san-jose.webp?quality=80&width=750&height=500&aspect_ratio=750%3A500",
+      "description": "A museum showcasing an extensive collection of pre-Columbian gold artifacts.",
+      "ticket": "https://boleteria.museosdelbancocentral.org/"
+    },
+    {
+      "name": "Jade Museum",
+      "imageUrl": "https://image.wmsm.co/64d613bd025a7/jade-museum-san-jose.webp?quality=80&width=750&height=500&aspect_ratio=750%3A500",
+      "description": "A museum featuring the largest collection of pre-Columbian jade artifacts in the Americas.",
+      "ticket": "https://www.costaricabureau.com/costa-rica-travel-information/costa_rica_ins_jade_museum.htm"
+    }
+  ]
+},
+{
+  "name": "La Fortuna",
+  "country": "Costa Rica",
+  "attractions": [
+    {
+      "name": "Arenal Volcano",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b8/61/c4/arenal-volcano-early.jpg?w=900&h=500&s=1",
+      "description": "An iconic volcano offering hiking trails and hot springs.",
+      "ticket": "https://www.arenalobservatorylodge.com/day-passes/"
+    },
+    {
+      "name": "La Fortuna Waterfall",
+      "imageUrl": "https://whereintheworldisnina.com/wp-content/uploads/2023/05/la-fortuna-waterfall.jpg",
+      "description": "A stunning 70-meter waterfall surrounded by lush rainforest.",
+      "ticket": "https://www.cataratalafortuna.com/book-now.php?id=1"
+    },
+    {
+      "name": "Mistico Arenal Hanging Bridges Park",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/77/c5.jpg",
+      "description": "A park with hanging bridges offering panoramic views of the rainforest.",
+      "ticket": "https://misticopark.com/tours/self-guided-hanging-bridges/"
+    }
+  ]
+},
+{
+  "name": "Copenhagen",
+  "country": "Denmark",
+  "attractions": [
+    {
+      "name": "Tivoli Gardens",
+      "imageUrl": "https://www.routesnorth.com/wp-content/uploads/2023/03/tivoli-at-night.jpg",
+      "description": "A historic amusement park and garden in the heart of Copenhagen, offering rides, concerts, and lush landscapes.",
+      "ticket": "https://shop.tivoli.dk/en/billetter-og-tivolikort"
+    },
+    {
+      "name": "Nyhavn",
+      "imageUrl": "https://content.r9cdn.net/rimg/dimg/32/18/116790b2-hood-211744-16c1b1acded.jpg?width=1366&height=768&xhint=2367&yhint=2160&crop=true",
+      "description": "A 17th-century waterfront district known for its colorful townhouses, historic wooden ships, and vibrant atmosphere.",
+      "ticket": "free"
+    },
+    {
+      "name": "The Little Mermaid",
+      "imageUrl": "https://freetourcopenhagen.eu/wp-content/uploads/2023/03/The-Little-Mermaid-Statue.jpg",
+      "description": "A bronze statue by Edvard Eriksen, depicting a mermaid becoming human, inspired by Hans Christian Andersen's fairy tale.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Aarhus",
+  "country": "Denmark",
+  "attractions": [
+    {
+      "name": "ARoS Aarhus Art Museum",
+      "imageUrl": "https://image.wmsm.co/be8e870ae7441bef5be1b2b5cfad64d8/og-image.jpg?quality=80&width=1200&height=630&aspect_ratio=1200%3A630",
+      "description": "One of Europe's largest art museums, featuring contemporary art and the iconic 'Your Rainbow Panorama' installation.",
+      "ticket": "https://www.aros.dk/en/visit/opening-hours-and-prices/"
+    },
+    {
+      "name": "Den Gamle By (The Old Town)",
+      "imageUrl": "https://cdn.prod.website-files.com/65329423a966d94a21420905/6665ef2de95e72cdd63d1079_Aarhus_Den_Gamle_By_16.jpg",
+      "description": "An open-air museum showcasing Danish urban history with reconstructed buildings from the 16th to 19th centuries.",
+      "ticket": "https://www.dengamleby.dk/en/plan-your-visit/tickets-and-opening-hours/"
+    },
+    {
+      "name": "Moesgaard Museum",
+      "imageUrl": "https://www.moesgaardmuseum.dk/media/6040/moesgaard-museum-indgang.jpg?anchor=center&mode=crop&width=1120&heightratio=0.5619747899159663865546218487&format=jpg&quality=80&slimmage=true&rnd=132076221130000000",
+      "description": "A museum dedicated to archaeology and ethnography, known for its innovative exhibitions and scenic location.",
+      "ticket": "https://www.moesgaardmuseum.dk/en/practical-information/prices-and-ticketing/"
+    }
+  ]
+},
+{
+  "name": "Santo Domingo",
+  "country": "Dominican Republic",
+  "attractions": [
+    {
+      "name": "Zona Colonial",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fd/91/48/photo4jpg.jpg?w=1200&h=-1&s=1",
+      "description": "The historic heart of Santo Domingo, featuring cobblestone streets, colonial architecture, and landmarks like the first cathedral of the Americas.",
+      "ticket": "free"
+    },
+    {
+      "name": "Alcázar de Colón",
+      "imageUrl": "https://images.visitarepublicadominicana.org/Alcazar-de-Colon-Santo-Domingo.jpg",
+      "description": "A Gothic-Mudéjar style palace built in the early 16th century, serving as the residence of Diego Columbus, the son of Christopher Columbus.",
+      "ticket": "https://www.godominicanrepublic.com/listing/alc%C3%A1zar-de-col%C3%B3n/3062/"
+    },
+    {
+      "name": "Los Tres Ojos",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/50000/50150-Los-Tres-Ojos.jpg",
+      "description": "A series of three limestone caves with crystal-clear lagoons, offering a unique subterranean landscape to explore.",
+      "ticket": "https://www.visitdominicanrepublic.org/los-tres-ojos-santo-domingo"
+    }
+  ]
+},
+{
+  "name": "Punta Cana",
+  "country": "Dominican Republic",
+  "attractions": [
+    {
+      "name": "Bávaro Beach",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/6c/3b.jpg",
+      "description": "A pristine white-sand beach lined with palm trees and clear turquoise waters, ideal for relaxation and water sports.",
+      "ticket": "free"
+    },
+    {
+      "name": "Indigenous Eyes Ecological Park",
+      "imageUrl": "https://www.godominicantravel.com/wp-content/uploads/2024/01/Indigenous-Eyes-Lake-960x450.jpeg",
+      "description": "A private reserve featuring a network of trails leading to freshwater lagoons, showcasing the region's natural beauty.",
+      "ticket": "https://bookings.puntacana.org/property/94dd2ea070123000af8effe5faa88577a9824d8f/events/"
+    },
+    {
+      "name": "Hoyo Azul",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/bf/cc/02/breathtaking.jpg?w=1200&h=-1&s=1",
+      "description": "A natural cenote with crystal-clear blue waters, nestled at the base of a 75-meter cliff, offering a refreshing swimming experience.",
+      "ticket": "https://www.godominicantravel.com/hoyo-azul-punta-cana/?srsltid=AfmBOorFMgxHBVOlpND_VuMbopGot892evdEnfp-1rtBDDJDGInjasR3"
+    }
+  ]
+},
+{
+  "name": "Cairo",
+  "country": "Egypt",
+  "attractions": [
+    {
+      "name": "Pyramids of Giza",
+      "imageUrl": "https://cdn-imgix.headout.com/tour/26524/TOUR-IMAGE/86c7e78d-48e2-4414-9c99-60c5ca83c906-13944-cairo-skip-the-line-tickets---pyramids-of-giza-01.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces",
+      "description": "One of the Seven Wonders of the Ancient World, these monumental pyramids are tombs of the Pharaohs and the most iconic symbols of ancient Egypt.",
+      "ticket": "https://www.pyramid-of-giza.com/"
+    },
+    {
+      "name": "Egyptian Museum",
+      "imageUrl": "https://egymonuments.com/Portals/2/assets/img/Egyptian-Museum/side-image.jpg",
+      "description": "Housing one of the world's largest collections of ancient Egyptian artifacts, including the treasures of King Tutankhamun.",
+      "ticket": "https://egyptianmuseumcairo.eg/ticket-opening-hours/"
+    },
+    {
+      "name": "Khan El Khalili Bazaar",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/e7/4c/e2.jpg",
+      "description": "A historic market in Cairo where visitors can find traditional Egyptian goods, spices, jewelry, and souvenirs.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Luxor",
+  "country": "Egypt",
+  "attractions": [
+    {
+      "name": "Valley of the Kings",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/3f/5a/1a.jpg",
+      "description": "The burial place of Egypt's most famous pharaohs, including Tutankhamun and Ramses II, with elaborately decorated tombs.",
+      "ticket": "https://egymonuments.com/locations/details/ValleyOfKings"
+    },
+    {
+      "name": "Karnak Temple",
+      "imageUrl": "https://www.thediscoveriesof.com/wp-content/uploads/2022/06/Karnak-Temple-Luxor-34.jpg.webp",
+      "description": "A vast complex of temples and sanctuaries dedicated to the Theban triad of Amun, Mut, and Khonsu, one of Egypt's largest religious sites.",
+      "ticket": "https://egymonuments.com/locations/details/KarnakTemple"
+    },
+    {
+      "name": "Luxor Temple",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/5e6e37d828875-wide.jpeg/99.jpg",
+      "description": "A majestic ancient temple dedicated to the Theban triad and an important site for the annual Opet Festival.",
+      "ticket": "https://myticketsworld.com/products/luxor-temple-skip-the-line-ticket?srsltid=AfmBOoq-F0tLiVjTJ_4F6E9Pn20vFQE8dPWRcSnEzF8nKhIPpb4W27_F"
+    }
+  ]
+},
+{
+  "name": "Aswan",
+  "country": "Egypt",
+  "attractions": [
+    {
+      "name": "Abu Simbel Temples",
+      "imageUrl": "https://www.earthtrekkers.com/wp-content/uploads/2020/01/How-to-Visit-Abu-Simbel.jpg.optimal.jpg",
+      "description": "Two massive rock temples built by Ramses II, relocated in the 1960s to avoid flooding from the construction of the Aswan High Dam.",
+      "ticket": "https://egymonuments.com/abusimbel"
+    },
+    {
+      "name": "Philae Temple",
+      "imageUrl": "https://www.thediscoveriesof.com/wp-content/uploads/2022/06/Philae-Temple-Aswan-19.jpg.webp",
+      "description": "An island temple complex dedicated to the goddess Isis, relocated to Agilkia Island due to the construction of the Aswan High Dam.",
+      "ticket": "https://egymonuments.com/locations/details/PhilaeTemple"
+    },
+    {
+      "name": "Aswan High Dam",
+      "imageUrl": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/322275/2000x2000-0-70-cd5b80bbc38e95f1082583e6e5692a5d.jpg",
+      "description": "A world-renowned engineering marvel, the Aswan High Dam controls the flooding of the Nile and provides irrigation for millions.",
+      "ticket": "https://www.emotoursegypt.com/en/activity/322275/high-dam-entry-tickets"
+    }
+  ]
+},
+{
+  "name": "Paris",
+  "country": "France",
+  "attractions": [
+    {
+      "name": "Eiffel Tower",
+      "imageUrl": "https://www.22places.com/wp-content/uploads/2019/02/eiffel-tower-paris.jpg",
+      "description": "The iconic symbol of Paris, offering breathtaking views of the city from its observation decks.",
+      "ticket": "https://www.toureiffel.paris/en/rates-opening-times"
+    },
+    {
+      "name": "Louvre Museum",
+      "imageUrl": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+      "description": "Home to thousands of works of art, including the Mona Lisa and the Venus de Milo, one of the largest and most famous museums in the world.",
+      "ticket": "https://www.louvre.fr/en/visit/hours-admission"
+    },
+    {
+      "name": "Notre-Dame Cathedral",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/01588a549d7027f621092e76329f381f-469-paris-paris--attractions_eiffel_and-notredame-01.jpg",
+      "description": "A masterpiece of Gothic architecture, renowned for its stunning facade, rose windows, and history.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Nice",
+  "country": "France",
+  "attractions": [
+    {
+      "name": "Promenade des Anglais",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/34000/34275-Promenade-Des-Anglais.jpg",
+      "description": "A famous seaside promenade along the Mediterranean coast, offering stunning views and a perfect place for a leisurely walk.",
+      "ticket": "free"
+    },
+    {
+      "name": "Colline du Château",
+      "imageUrl": "https://lp-cms-production.imgix.net/2019-06/86955b38d5d88e812e8ea7b55cea19be-colline-du-chateau.jpg",
+      "description": "An ancient hilltop park offering panoramic views of the city and the Mediterranean Sea.",
+      "ticket": "free"
+    },
+    {
+      "name": "Marc Chagall National Museum",
+      "imageUrl": "https://musees-nationaux-alpesmaritimes.fr/chagall/sites/chagall/files/2020-11/IMG_7950-musee-chagall-nice-1920_960px-25.jpg",
+      "description": "A museum dedicated to the works of Marc Chagall, showcasing his vibrant and colorful paintings.",
+      "ticket": "https://musees-nationaux-alpesmaritimes.fr/chagall/en/practical-information"
+    }
+  ]
+},
+{
+  "name": "Lyon",
+  "country": "France",
+  "attractions": [
+    {
+      "name": "Basilica of Notre-Dame de Fourvière",
+      "imageUrl": "https://images.musement.com/cover/0156/57/basilica-of-notre-dame-de-fourviere-adobestock-115980855-jpeg_header-15556684.jpg",
+      "description": "A beautiful basilica offering panoramic views of Lyon, with intricate mosaics and a rich history.",
+      "ticket": "free"
+    },
+    {
+      "name": "Parc de la Tête d'Or",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/87/7e.jpg",
+      "description": "A large urban park with a zoo, a lake, botanical gardens, and extensive walking paths.",
+      "ticket": "free"
+    },
+    {
+      "name": "Vieux Lyon (Old Lyon)",
+      "imageUrl": "https://images.musement.com/cover/0156/24/vieux-lyon-lyon-old-town-adobestock-214332172-jpeg_header-15523302.jpg",
+      "description": "A UNESCO World Heritage site, featuring well-preserved Renaissance architecture and narrow cobblestone streets.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Helsinki",
+  "country": "Finland",
+  "attractions": [
+    {
+      "name": "Helsinki Cathedral",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/590dd4905016e187a50516d7/1559628019179-80CDC5HGTVGEQO2UB9ZJ/Helsinki+Cathedral",
+      "description": "A stunning Lutheran cathedral with neoclassical architecture, located at Senate Square in the heart of Helsinki.",
+      "ticket": "free"
+    },
+    {
+      "name": "Suomenlinna Fortress",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5db2c1c870cf53160ba6a917/39be2dc5-8c7c-4ac6-b2d1-636bf3300251/1+-+14.jpeg",
+      "description": "A sea fortress and UNESCO World Heritage site, offering beautiful views and historical exhibits.",
+      "ticket": "https://www.suomenlinna.fi/en/plan-your-visit/tickets/"
+    },
+    {
+      "name": "Temppeliaukio Church",
+      "imageUrl": "https://www.temppeliaukionkirkko.fi/material/images/C9yb7tLvc/kuva_3.jpg",
+      "description": "Also known as the Rock Church, this unique architectural wonder is built directly into solid rock.",
+      "ticket": "https://www.temppeliaukionkirkko.fi/en/index/nimi.html"
+    }
+  ]
+},
+{
+  "name": "Rovaniemi",
+  "country": "Finland",
+  "attractions": [
+    {
+      "name": "Santa Claus Village",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/14/43/0a/9b.jpg",
+      "description": "The official hometown of Santa Claus, where visitors can meet Santa, cross the Arctic Circle, and enjoy various activities.",
+      "ticket": "free"
+    },
+    {
+      "name": "Arktikum Museum",
+      "imageUrl": "https://www.arktikum.fi/wp-content/uploads/2024/08/Arktikum_revontulet.jpeg",
+      "description": "A museum and science center dedicated to the Arctic region, showcasing the culture, history, and nature of the polar areas.",
+      "ticket": "https://arktikum.fi/en/visit/tickets/"
+    },
+    {
+      "name": "Ranua Wildlife Park",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/13/d0/52/32.jpg",
+      "description": "A wildlife park where visitors can see Arctic animals like polar bears, lynx, and owls in their natural habitats.",
+      "ticket": "https://ranuaresort.com/en/wildlife-park/tickets-admission-fees/"
+    }
+  ]
+},
+{
+  "name": "Suva",
+  "country": "Fiji",
+  "attractions": [
+    {
+      "name": "Fiji Museum",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/62/fe/e5/the-museum-and-gazebo.jpg?w=1200&h=-1&s=1",
+      "description": "A museum showcasing Fiji's cultural heritage, archaeological finds, and historical artifacts.",
+      "ticket": "https://fijimuseum.org.fj/"
+    },
+    {
+      "name": "Suva Municipal Market",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/87/f2/5f/20151116-144157-largejpg.jpg?w=1200&h=-1&s=1",
+      "description": "A bustling market where visitors can experience local produce, handmade crafts, and Fijian delicacies.",
+      "ticket": "free"
+    },
+    {
+      "name": "Colo-i-Suva Forest Park",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/13/c2/33/f4.jpg",
+      "description": "A beautiful rainforest park with walking trails, waterfalls, and opportunities to experience Fiji's lush flora and fauna.",
+      "ticket": "http://visitfiji.com/activity/listing/colo_is.htm"
+    }
+  ]
+},
+{
+  "name": "Nadi",
+  "country": "Fiji",
+  "attractions": [
+    {
+      "name": "Sri Siva Subramaniya Temple",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/b1/70.jpg",
+      "description": "A vibrant Hindu temple with colorful architecture, showcasing South Indian style, located in the heart of Nadi.",
+      "ticket": "free"
+    },
+    {
+      "name": "Denarau Island",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/43000/43763-Port-Denarau.jpg",
+      "description": "A luxurious resort area offering beautiful beaches, golf courses, and access to various water activities.",
+      "ticket": "https://www.viator.com/tours/Denarau-Island/Nadi-Half-Day-Tour/d22972-58776P1"
+    },
+    {
+      "name": "Garden of the Sleeping Giant",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/9d/22.jpg",
+      "description": "A lush botanical garden featuring a wide variety of orchids and tropical plants, set against a picturesque backdrop.",
+      "ticket": "https://www.accesstravel.com/ru-/ViatorAttraction/Index/4795/21555"
+    }
+  ]
+},
+{
+  "name": "Berlin",
+  "country": "Germany",
+  "attractions": [
+    {
+      "name": "Brandenburg Gate",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/5cf5245394517.jpeg/146.jpg",
+      "description": "A neoclassical monument that once divided East and West Berlin, symbolizing the reunification of Germany.",
+      "ticket": "free"
+    },
+    {
+      "name": "Berlin Wall Memorial",
+      "imageUrl": "https://babylontours.com/wp-content/uploads/2020/05/berlin-wall-guided-tour-1200x726.jpg",
+      "description": "A historical site that offers a glimpse into the former Berlin Wall and its impact on the city's history.",
+      "ticket": "free"
+    },
+    {
+      "name": "Reichstag Building",
+      "imageUrl": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1658729423/dmsatops7oyi8ogghhtn.jpg",
+      "description": "The seat of the German parliament, known for its glass dome offering panoramic views of the city.",
+      "ticket": "https://www.bundestag.de/en/visittheBundestag/dome/registration-245686"
+    }
+  ]
+},
+{
+  "name": "Munich",
+  "country": "Germany",
+  "attractions": [
+    {
+      "name": "Neuschwanstein Castle",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/3f/40/1f.jpg",
+      "description": "A fairytale-like castle perched atop the Bavarian Alps, one of the most visited castles in Europe.",
+      "ticket": "https://www.neuschwanstein.de/englisch/tourist/admiss.htm"
+    },
+    {
+      "name": "Marienplatz",
+      "imageUrl": "https://www.thetrainline.com/cms/media/4496/munich-marienplatz.jpg?mode=crop&width=1080&height=1080&quality=70",
+      "description": "The central square of Munich, home to the iconic New Town Hall and its Glockenspiel show.",
+      "ticket": "free"
+    },
+    {
+      "name": "English Garden",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/53bffc3bdbd93-m1401979133.jpg/99.jpg",
+      "description": "One of the largest urban parks in the world, featuring tranquil lakes, meadows, and beer gardens.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Hamburg",
+  "country": "Germany",
+  "attractions": [
+    {
+      "name": "Miniatur Wunderland",
+      "imageUrl": "https://www.miniatur-wunderland.com/imager/contentimages/layout/hamburg/257/MiWuLa-Pur_1_Miniatur-Wunderland_19f3a1c64a8c67e1f8603703eedfabfa.jpg",
+      "description": "The world's largest model railway exhibition, featuring intricately detailed miniatures of cities and landscapes.",
+      "ticket": "https://www.miniatur-wunderland.com/visiting/plan-your-visit/tickets/"
+    },
+    {
+      "name": "Elbphilharmonie",
+      "imageUrl": "https://d3c80vss50ue25.cloudfront.net/media/filer_public_thumbnails/filer_public/05/55/05550d69-2b85-42d7-80e3-a43f06111bc9/faehranleger_elbphilharmonie_c_sascha_neuroth.jpg__1794x897_q85_crop_subject_location-3037%2C1404_subsampling-2_upscale.jpg",
+      "description": "A striking concert hall on the Elbe River, known for its unique architecture and outstanding acoustics.",
+      "ticket": "https://www.elbphilharmonie.de/en/ticketing-information"
+    },
+    {
+      "name": "Hamburg Harbor",
+      "imageUrl": "https://cdn-imgix.headout.com/tour/21926/TOUR-IMAGE/c146649b-cf27-495d-a275-9c752dda178b-11535-hamburg-harbor-1-hour-hamburg-harbor-cruise-04.jpg?auto=format&w=1069.6000000000001&h=687.6&q=90&fit=crop&ar=14%3A9&crop=faces",
+      "description": "One of the busiest ports in Europe, offering boat tours with views of the iconic Speicherstadt warehouses.",
+      "ticket": "https://www.hamburg-ticketcenter.de/en"
+    }
+  ]
+},
+{
+  "name": "Accra",
+  "country": "Ghana",
+  "attractions": [
+    {
+      "name": "Cape Coast Castle",
+      "imageUrl": "https://visitghana.com/wp-content/uploads/2018/08/2347_ABS_cape-coast-castle-in-ghana.jpg",
+      "description": "A historic fort once used in the transatlantic slave trade, now a UNESCO World Heritage Site and museum.",
+      "ticket": "https://www.easytrackghana.com/day-trip-Cape-Coast.php"
+    },
+    {
+      "name": "Kwame Nkrumah Mausoleum",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/94/62.jpg",
+      "description": "The final resting place of Ghana's first president, offering a deep look into the country’s history.",
+      "ticket": "https://visitghana.com/attractions/kwame-nkrumah-memorial-park/"
+    },
+    {
+      "name": "Jamestown",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*xJfyLiROWF515bXp586gBg.png",
+      "description": "A historic district in Accra, known for its colonial architecture, lighthouses, and vibrant fishing community.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Kumasi",
+  "country": "Ghana",
+  "attractions": [
+    {
+      "name": "Manhyia Palace",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Manhyia_Palace_Museum.jpg/640px-Manhyia_Palace_Museum.jpg",
+      "description": "The royal palace of the Ashanti Kingdom, where the Asantehene (king) resides and cultural ceremonies take place.",
+      "ticket": "free"
+    },
+    {
+      "name": "Kumasi National Museum",
+      "imageUrl": "https://cdn.ghanatrvl.com/images/gh/articles/place-to-see_kumasi-fort-and-military-museum_ghana-armed-forces-museum_2020-04-05_342_1289-l.jpg",
+      "description": "A museum showcasing the rich history, culture, and art of the Ashanti people and Ghana.",
+      "ticket": "https://gmmb.gov.gh/kumasi-fort-and-military-museum/"
+    },
+    {
+      "name": "Kejetia Market",
+      "imageUrl": "https://lp-cms-production.imgix.net/2019-06/b71e087d0370bae47adc1478f1168021-kejetia-market.jpg",
+      "description": "One of the largest open-air markets in West Africa, offering a wide variety of goods from local produce to handmade crafts.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Athens",
+  "country": "Greece",
+  "attractions": [
+    {
+      "name": "Acropolis of Athens",
+      "imageUrl": "https://acropolistickets.tours/wp-content/uploads/2022/08/view-of-acropolis-athens.jpg",
+      "description": "A UNESCO World Heritage Site, the Acropolis is home to the Parthenon and other ancient structures symbolizing Greek civilization.",
+      "ticket": "https://www.acropolis-athens-tickets.com/official-website"
+    },
+    {
+      "name": "Parthenon",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/14/be/51/a2.jpg",
+      "description": "A symbol of ancient Greece, this temple was dedicated to the goddess Athena, constructed in the 5th century BC.",
+      "ticket": "https://www.acropolis-athens-tickets.com/official-website"
+    },
+    {
+      "name": "National Archaeological Museum",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/56b20a1819ea8.jpeg/99.jpg",
+      "description": "One of the most significant archaeological museums in the world, featuring artifacts from ancient Greek civilization.",
+      "ticket": "https://hhticket.gr/tap_b2c_new/english/tap.exe?PM=P1P&place=000000012"
+    }
+  ]
+},
+{
+  "name": "Santorini",
+  "country": "Greece",
+  "attractions": [
+    {
+      "name": "Oia Village",
+      "imageUrl": "https://www.shoreexcursionsgroup.com/img/tour/EUSNSECRECTSANBIGBLU-2.jpg",
+      "description": "Famous for its stunning sunset views, charming whitewashed houses, and iconic blue-domed churches.",
+      "ticket": "free"
+    },
+    {
+      "name": "Red Beach",
+      "imageUrl": "https://www.cestee.com/images/97/87/19787-920w.webp",
+      "description": "A unique beach with striking red volcanic sand and crystal-clear waters, offering a peaceful getaway.",
+      "ticket": "free"
+    },
+    {
+      "name": "Akrotiri Archaeological Site",
+      "imageUrl": "https://santorinidave.com/wp-content/uploads/2020/09/santorini-akrotiri-ruins-vases-1.jpg",
+      "description": "An ancient Minoan city preserved in volcanic ash, providing a glimpse into Santorini’s ancient past.",
+      "ticket": "https://hhticket.gr/tap_b2c_new/english/tap.exe?PM=P1P&place=000000017"
+    }
+  ]
+},
+{
+  "name": "Crete",
+  "country": "Greece",
+  "attractions": [
+    {
+      "name": "Palace of Knossos",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/ef/71/6b.jpg",
+      "description": "The largest archaeological site on Crete, known for its Minoan civilization and stunning ancient architecture.",
+      "ticket": "https://knossos-palace.gr/"
+    },
+    {
+      "name": "Elafonissi Beach",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/dc/5f/09/elafonisi-beach-niriis.jpg?w=1200&h=-1&s=1",
+      "description": "A breathtaking pink sand beach located in the southwestern part of Crete, ideal for swimming and relaxation.",
+      "ticket": "free"
+    },
+    {
+      "name": "Samaria Gorge",
+      "imageUrl": "https://www.fantasytravelofgreece.com/sites/default/files/samaria-gorge-crete_1.jpg",
+      "description": "A 16 km-long gorge in the White Mountains, popular for hiking with stunning natural landscapes.",
+      "ticket": "https://samaria-tickets.necca.gov.gr/checkout"
+    }
+  ]
+},
+{
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "attractions": [
+    {
+      "name": "Hallgrímskirkja",
+      "imageUrl": "https://allthingsiceland.com/wp-content/uploads/2024/02/hallgrimskirkja-church-t-night.jpg",
+      "description": "A striking, modernist church that dominates Reykjavik's skyline and offers panoramic views from its tower.",
+      "ticket": "https://www.hallgrimskirkja.is/en/visiting-the-church"
+    },
+    {
+      "name": "Harpa Concert Hall",
+      "imageUrl": "https://images.ctfassets.net/a68ipajj4t9l/6y8BuRPgmDlTIAJkqR2ucd/1c0c27df88555e1e1c9307564a7d2f14/Harpa_Reykjav_k_header.jpg?w=1200&q=60",
+      "description": "A beautiful concert hall and conference center with a unique glass facade, located by the Reykjavik harbor.",
+      "ticket": "free"
+    },
+    {
+      "name": "National Museum of Iceland",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/6463b637371a4.jpeg/146.jpg",
+      "description": "A museum showcasing Icelandic history, culture, and artifacts, offering insights into the country's rich past.",
+      "ticket": "https://adventures.is/iceland/attractions/national-museum-iceland/"
+    }
+  ]
+},
+{
+  "name": "Golden Circle",
+  "country": "Iceland",
+  "attractions": [
+    {
+      "name": "Thingvellir National Park",
+      "imageUrl": "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cmsfeatured/the-thingvellir-national-park-in-iceland-1500461340-785X440.jpg",
+      "description": "A UNESCO World Heritage site, where you can see the rift between the North American and Eurasian tectonic plates.",
+      "ticket": "free"
+    },
+    {
+      "name": "Gullfoss Waterfall",
+      "imageUrl": "https://icelandtrippers.com/wp-content/uploads/2021/07/5-Things-To-Know-Before-Visiting-Gullfoss-Waterfall-Iceland-gullfoss-sunset.jpg",
+      "description": "A powerful and beautiful two-tier waterfall located in the Golden Circle, offering stunning views and photo opportunities.",
+      "ticket": "free"
+    },
+    {
+      "name": "Geysir Hot Springs Area",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/ef/44/fb.jpg",
+      "description": "Home to the famous Strokkur geyser, which erupts every few minutes, creating an incredible spectacle.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Vik",
+  "country": "Iceland",
+  "attractions": [
+    {
+      "name": "Reynisfjara Beach",
+      "imageUrl": "https://www.reykjavikcars.com/assets/img/blog/729/reynisfjara-get-there.jpg",
+      "description": "A black sand beach with stunning basalt sea stacks, one of Iceland's most photographed natural sites.",
+      "ticket": "free"
+    },
+    {
+      "name": "Skogafoss Waterfall",
+      "imageUrl": "https://res.cloudinary.com/itb-database/image/upload/s--wgdrTVeV--/c_fill,dpr_auto,f_auto,q_auto:eco,w_1280/v1/Places/lw6x02miu34wxdd7vwpj",
+      "description": "A massive waterfall with a drop of 60 meters, offering a great hiking opportunity to reach its top.",
+      "ticket": "free"
+    },
+    {
+      "name": "Dyrhólaey",
+      "imageUrl": "https://nordical.com/wp-content/uploads/2021/06/shutterstock_1509672743.jpg",
+      "description": "A promontory with a huge arch, offering panoramic views of the coastline, birds, and the sea.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "New Delhi",
+  "country": "India",
+  "attractions": [
+    {
+      "name": "Red Fort",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/59/70/42/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A UNESCO World Heritage site, this massive fort complex is a symbol of India's rich history and Mughal architecture.",
+      "ticket": "https://www.viator.com/tours/New-Delhi/Red-Fort-New-Delhi-Admission-Ticket/d804-26911P361"
+    },
+    {
+      "name": "India Gate",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/42/73/a4/india-gate.jpg?w=900&h=500&s=1",
+      "description": "A war memorial dedicated to soldiers who died during World War I, offering a majestic view at night.",
+      "ticket": "free"
+    },
+    {
+      "name": "Qutub Minar",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/65/c8.jpg",
+      "description": "A UNESCO World Heritage site, the Qutub Minar is a stunning example of Indo-Islamic Afghan architecture.",
+      "ticket": "https://www.viator.com/en-CA/tours/New-Delhi/Qutub-Minar-Admission-Ticket-with-Optional-Transportation/d804-26911P335"
+    }
+  ]
+},
+{
+  "name": "Mumbai",
+  "country": "India",
+  "attractions": [
+    {
+      "name": "Gateway of India",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/5c07b6f5e8b21-wide.jpeg/99.jpg",
+      "description": "An iconic monument built during the British Raj, offering stunning views of the Arabian Sea.",
+      "ticket": "free"
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "imageUrl": "https://media.tacdn.com/media/attractions-content--1x-1/0b/27/78/61.jpg",
+      "description": "A UNESCO World Heritage site, this Victorian Gothic-style railway station is one of Mumbai’s most famous landmarks.",
+      "ticket": "https://www.timbuktutravel.com/experience/visit-the-chhatrapati-shivaji-maharaj-terminus"
+    },
+    {
+      "name": "Elephanta Caves",
+      "imageUrl": "https://magicalmumbaitours.com/wp-content/uploads/2024/10/qj62nh68fativk30jny3i6osrzgw_1524229348_Elephanta_caves.webp",
+      "description": "A network of ancient rock-cut temples dedicated to Hindu gods, located on Elephanta Island.",
+      "ticket": "https://www.tripadvisor.com/Attraction_Products-g304554-d311664-Elephanta_Caves-Mumbai_Maharashtra.html"
+    }
+  ]
+},
+{
+  "name": "Jaipur",
+  "country": "India",
+  "attractions": [
+    {
+      "name": "Amber Fort",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/04/21/ce/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A beautiful hilltop fort with intricate architecture, offering a stunning view of the surrounding city and landscape.",
+      "ticket": "https://obms-tourist.rajasthan.gov.in/place-details/Am"
+    },
+    {
+      "name": "Hawa Mahal",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/77/c9.jpg",
+      "description": "Known as the Palace of Winds, this historic palace is famous for its intricate façade and stunning views.",
+      "ticket": "https://www.hawa-mahal.com/amber-palace/"
+    },
+    {
+      "name": "City Palace",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/96/8a/82/this-is-the-time-when.jpg?w=1200&h=1200&s=1",
+      "description": "A stunning royal residence, blending Rajasthani and Mughal architecture, with several courtyards and museums.",
+      "ticket": "https://thecitypalacejaipur.com/book-ticket"
+    }
+  ]
+},
+{
+  "name": "Rome",
+  "country": "Italy",
+  "attractions": [
+    {
+      "name": "Colosseum",
+      "imageUrl": "https://www.turbopass.com/6661-carousel/colosseum-in-full-view-in-rome.jpg",
+      "description": "One of the greatest works of Roman architecture and engineering, this amphitheater once hosted gladiator battles.",
+      "ticket": "https://www.colosseumdiroma-tickets.com/en/?utm_source=google&utm_medium=cpc&utm_campaign=coliseo_eng_usa_sea&utm_content=coliseo_eng_usa&gad_source=1&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSjX0yD1vCxTDnEgo8EFv9RxSGB67KSiKNhezIXzFMH0bjEJi3rRn5kaAquUEALw_wcB"
+    },
+    {
+      "name": "Vatican Museums",
+      "imageUrl": "https://res.cloudinary.com/https-www-isango-com/image/upload/f_auto/t_m_Prod/v1644315483/europe/italy/rome/a9.jpg",
+      "description": "Home to one of the largest and most impressive art collections in the world, including the Sistine Chapel.",
+      "ticket": "https://www.museivaticanitickets.com/en/?utm_source=google&utm_medium=cpc&utm_campaign=vaticano_eng_usa_sea&utm_content=vaticano_eng_usa&gad_source=1&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSg4MNsrLikHe34q7hbvq-JMwoJqxsZH-dIamR-1B5pOeennIWUSR00aAlUaEALw_wcB"
+    },
+    {
+      "name": "Pantheon",
+      "imageUrl": "https://www.pantheonroma.com/wp-content/uploads/2023/10/Pantheon-Roma-dallalto.jpg",
+      "description": "A Roman temple turned church, known for its massive dome and stunning architectural design.",
+      "ticket": "https://www.pantheonroma-tickets.org/en?utm_source=google&utm_medium=cpc&utm_campaign=panteon_eng_usa_sea&utm_content=panteon_eng_usa&gad_source=1&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSjOctam5Ev35agVOSBKczYVn7fnT0e6PukVj3AgJsS_Zy94epkt0PMaArQZEALw_wcB"
+    }
+  ]
+},
+{
+  "name": "Florence",
+  "country": "Italy",
+  "attractions": [
+    {
+      "name": "Uffizi Gallery",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/04/40/14.jpg",
+      "description": "One of the most famous art museums in the world, home to masterpieces by Botticelli, Leonardo da Vinci, and Michelangelo.",
+      "ticket": "https://www.uffizi.it/en/tickets"
+    },
+    {
+      "name": "Duomo di Firenze",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/b4/4f.jpg",
+      "description": "The cathedral of Florence, known for its stunning dome designed by Brunelleschi, and panoramic city views.",
+      "ticket": "https://duomoflorencetickets.com/"
+    },
+    {
+      "name": "Ponte Vecchio",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/14/95/82/c5.jpg",
+      "description": "A medieval bridge lined with shops, offering beautiful views of the Arno River and the city.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Venice",
+  "country": "Italy",
+  "attractions": [
+    {
+      "name": "St. Mark's Basilica",
+      "imageUrl": "https://cloud.skiperformance.com/media/merchants/basilicasanmarco.skiperformance.com/products-img/image-2015-large-5_3.jpg?nc=1680083238",
+      "description": "A stunning Byzantine cathedral, famous for its intricate mosaics and golden interior.",
+      "ticket": "https://www.viator.com/Venice-tourism/d522-r53241787812-s121117091?m=28353&supag=53241787812&supsc=kwd-375863775337&supai=274336088125&supap=&supdv=c&supnt=nt:g&suplp=9010766&supli=&supti=kwd-375863775337&tsem=true&supci=kwd-375863775337&supap1=&supap2=&gad_source=1&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSgMUonhri1CFxLnH45XKuqwyClwmGoUoW_I1Cb1YAue3JF1Gc4V-6AaAllsEALw_wcB"
+    },
+    {
+      "name": "Doge's Palace",
+      "imageUrl": "https://fullsuitcase.com/wp-content/uploads/2020/10/Doges-Palace-Venice-Italy.jpg",
+      "description": "A historic palace that was once the residence of the Doge, the ruler of Venice, now a museum of art and history.",
+      "ticket": "https://www.doge-palace-tickets.com/?ci=1&cm=10876254635_109505166120_c_g_doge%27s+palace+tour_b_&gad_source=1&gclid=EAIaIQobChMIoPeCiMTsiwMVcZtaBR3jIgtSEAAYASAAEgJANvD_BwE"
+    },
+    {
+      "name": "Grand Canal",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/5b/0f.jpg",
+      "description": "The main waterway of Venice, lined with stunning palaces and crossed by iconic gondolas and boats.",
+      "ticket": "https://www.viator.com/Venice-attractions/Grand-Canal/d522-a764"
+    }
+  ]
+},
+{
+  "name": "Kingston",
+  "country": "Jamaica",
+  "attractions": [
+    {
+      "name": "Bob Marley Museum",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/23/e1/6f.jpg",
+      "description": "Located in the former home of reggae legend Bob Marley, this museum celebrates his life and music.",
+      "ticket": "https://www.bobmarleymuseum.com/bob-marley-home-museum-tour/"
+    },
+    {
+      "name": "National Gallery of Jamaica",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/109000/109975-Kingston.jpg",
+      "description": "Jamaica's leading museum for visual arts, showcasing both Jamaican and international artists.",
+      "ticket": "https://www.visitjamaica.com/listing/national-gallery-of-jamaica/2313/"
+    },
+    {
+      "name": "Devon House",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/18/cb/20.jpg",
+      "description": "A historic mansion and popular attraction known for its ice cream and beautiful gardens.",
+      "ticket": "https://www.devonhouseja.com/book-a-tour"
+    }
+  ]
+},
+{
+  "name": "Montego Bay",
+  "country": "Jamaica",
+  "attractions": [
+    {
+      "name": "Dunn's River Falls",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/df/d0/e9.jpg",
+      "description": "A popular waterfall where visitors can climb the falls or relax on the beach beneath them.",
+      "ticket": "https://dunnsriverfallsja.com/tickets-and-specials/?_gl=1*vwqk0b*_ga*NDY0MzQ0OTA0LjE3NDA5NzM3NzY.*_ga_NDQQS3X9K4*MTc0MDk3Mzc3Ni4xLjAuMTc0MDk3Mzc4MS4wLjAuMA.."
+    },
+    {
+      "name": "Rose Hall Great House",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/5f/40.jpg",
+      "description": "A historic plantation house with a fascinating history, often associated with the legend of the White Witch.",
+      "ticket": "https://rosehall.com/rose-hall/"
+    },
+    {
+      "name": "Doctor's Cave Beach",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/60000/60362-Doctors-Cave-Beach.jpg",
+      "description": "A beautiful white sand beach famous for its clear turquoise waters and relaxing atmosphere.",
+      "ticket": "https://doctorscavebathingclub.com/general-admission/"
+    }
+  ]
+},
+{
+  "name": "Ocho Rios",
+  "country": "Jamaica",
+  "attractions": [
+    {
+      "name": "Mystic Mountain",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/4a/ce/e8.jpg",
+      "description": "An eco-tourism park offering scenic views, a sky lift, bobsled rides, and a vibrant rainforest environment.",
+      "ticket": "https://www.mysticmountain.com/"
+    },
+    {
+      "name": "Ocho Rios Bay Beach",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/60000/60282-Ocho-Rios.jpg",
+      "description": "A beautiful and peaceful beach, perfect for swimming and sunbathing with calm, warm waters.",
+      "ticket": "https://websitearchive2020.nepa.gov.jm/new/services_products/subsites/beach_guide/beaches/ocho_rios_bay.php"
+    },
+    {
+      "name": "Fern Gully",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f7/50.jpg",
+      "description": "A scenic drive through a lush, tropical forest, offering a unique experience of nature's beauty in Jamaica.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Negril",
+  "country": "Jamaica",
+  "attractions": [
+    {
+      "name": "Seven Mile Beach",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cd/51/9b/seven-mile-beach.jpg?w=900&h=500&s=1",
+      "description": "A pristine stretch of beach offering stunning sunsets, ideal for water activities and relaxation.",
+      "ticket": "https://www.viator.com/Negril-attractions/Seven-Mile-Beach/d433-a1710"
+    },
+    {
+      "name": "Rick's Cafe",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/48/a2/f2/p1060937-largejpg.jpg?w=900&h=500&s=1",
+      "description": "A popular spot for cliff diving and enjoying the vibrant atmosphere, complete with ocean views and live music.",
+      "ticket": "free"
+    },
+    {
+      "name": "Negril Cliffs",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/26/94/4a/photo0jpg.jpg?w=900&h=500&s=1",
+      "description": "A stunning set of cliffs offering breathtaking views of the Caribbean Sea, perfect for adventurous activities.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Tokyo",
+  "country": "Japan",
+  "attractions": [
+    {
+      "name": "Tokyo Tower",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_3000,h_2000/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/gubroidkf8njzpkmkks9/TokyoTowerTicket-KlookUnitedStates.jpg",
+      "description": "An iconic landmark offering panoramic views of Tokyo from its observation decks.",
+      "ticket": "https://en.tokyotower.co.jp/fee/"
+    },
+    {
+      "name": "Senso-ji Temple",
+      "imageUrl": "https://en.japantravel.com/photo/poi-5-214199/1200x630/tokyo-sensoji-temple-214199.jpg",
+      "description": "Tokyo's oldest and most famous temple, located in the Asakusa district.",
+      "ticket": "free"
+    },
+    {
+      "name": "Meiji Shrine",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/60/17.jpg",
+      "description": "A tranquil Shinto shrine dedicated to Emperor Meiji and Empress Shoken, set in a forested area.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Kyoto",
+  "country": "Japan",
+  "attractions": [
+    {
+      "name": "Fushimi Inari Shrine",
+      "imageUrl": "https://i0.wp.com/www.elitejetsetter.com/wp-content/uploads/2020/03/20190323-Fushimi-Inari-Shrine-blog-Post-title.jpg?fit=850%2C680&ssl=1&resize=1280%2C720",
+      "description": "Famous for its thousands of red torii gates, leading to the shrine at the top of Mount Inari.",
+      "ticket": "free"
+    },
+    {
+      "name": "Kinkaku-ji (Golden Pavilion)",
+      "imageUrl": "https://www.japan-guide.com/g18/3908_top.jpg",
+      "description": "A stunning Zen Buddhist temple known for its gold leaf-covered exterior and beautiful surrounding gardens.",
+      "ticket": "https://www.shokoku-ji.jp/en/kinkakuji/access/"
+    },
+    {
+      "name": "Arashiyama Bamboo Grove",
+      "imageUrl": "https://photos.smugmug.com/i-hFcX6RC/0/1c58ee68/L/famous-bamboo-grove-arashiyama-L.jpg",
+      "description": "A mesmerizing bamboo forest located in the Arashiyama district, perfect for walking and photography.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Osaka",
+  "country": "Japan",
+  "attractions": [
+    {
+      "name": "Osaka Castle",
+      "imageUrl": "https://www.japan-guide.com/g18/4000_top.jpg",
+      "description": "A historic castle offering stunning views of Osaka and a museum showcasing its history.",
+      "ticket": "https://www.osaka-tickets.com/osaka-castle/"
+    },
+    {
+      "name": "Universal Studios Japan",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/5c/12.jpg",
+      "description": "A popular theme park featuring thrilling rides, shows, and attractions based on famous movies and franchises.",
+      "ticket": "https://www.usjticketing.com/"
+    },
+    {
+      "name": "Dotonbori",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/492000/492094-dotonbori.jpg",
+      "description": "A lively entertainment district in Osaka known for its neon lights, street food, and vibrant nightlife.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Amman",
+  "country": "Jordan",
+  "attractions": [
+    {
+      "name": "Citadel Hill",
+      "imageUrl": "https://www.touristjordan.com/wp-content/uploads/2023/04/amman-citadel-1024x683.jpg",
+      "description": "An ancient site with ruins dating back to the Roman, Byzantine, and Umayyad periods, offering stunning views of Amman.",
+      "ticket": "https://international.visitjordan.com/page/17/Entrance-Fees"
+    },
+    {
+      "name": "Roman Theatre",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/294000/294482-Amman-Roman-Theater.jpg",
+      "description": "A grand 2nd-century Roman theatre in the heart of Amman, still used for performances and events today.",
+      "ticket": "https://international.visitjordan.com/page/17/Entrance-Fees"
+    },
+    {
+      "name": "The Jordan Museum",
+      "imageUrl": "https://www.beinharimtours.com/wwwroot/uploads/gallery/0/5d4982a1-131b-42a2-ab7d-9e817fdfffd5.jpg",
+      "description": "A museum showcasing Jordan's rich cultural and archaeological history, featuring artifacts from various ancient civilizations.",
+      "ticket": "https://www.jordanmuseum.jo/"
+    }
+  ]
+},
+{
+  "name": "Petra",
+  "country": "Jordan",
+  "attractions": [
+    {
+      "name": "The Treasury (Al-Khazneh)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/a3/b3/b1/che-colori.jpg?w=1200&h=1200&s=1",
+      "description": "One of Petra's most famous monuments, carved into a sandstone cliff face, known for its intricate facade and dramatic entrance.",
+      "ticket": "https://www.viator.com/Petra-attractions/Treasury/d24520-a13351"
+    },
+    {
+      "name": "The Monastery (Ad-Deir)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG",
+      "description": "A magnificent and well-preserved monument, accessible by a steep climb, offering breathtaking views of Petra.",
+      "ticket": "https://www.viator.com/en-MY/Petra-attractions/Monastery/d24520-a20204?dynamicFilters=21725,12077"
+    },
+    {
+      "name": "The Siq",
+      "imageUrl": "https://dannythedigger.com/wp-content/uploads/siq-shutterstock-600-800.jpg",
+      "description": "A narrow, winding gorge that leads visitors to the heart of Petra, offering a dramatic and scenic entrance to the ancient city.",
+      "ticket": "https://www.viator.com/Petra-attractions/Siq/d24520-a20206"
+    }
+  ]
+},
+{
+  "name": "Nairobi",
+  "country": "Kenya",
+  "attractions": [
+    {
+      "name": "David Sheldrick Wildlife Trust",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/3a/c6/53.jpg",
+      "description": "A sanctuary for orphaned elephants, where visitors can learn about wildlife conservation and watch elephants being fed and playing.",
+      "ticket": "https://www.viator.com/tours/Nairobi/Private-Full-Day-Guided-Tour-Giraffe-Center-and-Elephant-Orphanage/d5280-260078P84"
+    },
+    {
+      "name": "Giraffe Centre",
+      "imageUrl": "https://www.masaimara.travel/images/giraffe-centre-nairobi.jpg",
+      "description": "A conservation center dedicated to the endangered Rothschild giraffe, where visitors can feed and interact with these gentle giants.",
+      "ticket": "https://www.giraffecentre.org/"
+    },
+    {
+      "name": "Nairobi National Park",
+      "imageUrl": "https://www.serengetiparktanzania.com/wp-content/uploads/2024/01/nairobi-national-park-main-gate-750x450-1.jpeg",
+      "description": "A unique wildlife park located just outside Nairobi, where visitors can spot a variety of animals, including lions and giraffes, with the city skyline in the background.",
+      "ticket": "https://www.kws.go.ke/nairobi-national-park"
+    }
+  ]
+},
+{
+  "name": "Mombasa",
+  "country": "Kenya",
+  "attractions": [
+    {
+      "name": "Fort Jesus",
+      "imageUrl": "https://museums.or.ke/wp-content/uploads/2023/12/Fort-Jesus-an-attraction-built-in-1593-and-declared-a-UNESCO-World-Heritage-site-in-2011-1024x681.jpg",
+      "description": "A historic fort built by the Portuguese in the 16th century, offering insight into Kenya’s colonial past and spectacular views of the Indian Ocean.",
+      "ticket": "https://www.viator.com/Mombasa-attractions/Fort-Jesus/d22167-a22753"
+    },
+    {
+      "name": "Diani Beach",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/57/5b/af/paradisiac-kite-spot.jpg?w=1400&h=1400&s=1",
+      "description": "A beautiful stretch of white sand beach along the Indian Ocean, popular for swimming, snorkeling, and relaxing in luxurious resorts.",
+      "ticket": "free"
+    },
+    {
+      "name": "Old Town",
+      "imageUrl": "https://live.staticflickr.com/65535/51971881084_8919ba3057_z.jpg",
+      "description": "A charming area in Mombasa known for its narrow streets, ancient Swahili architecture, and vibrant markets filled with local crafts.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Maasai Mara",
+  "country": "Kenya",
+  "attractions": [
+    {
+      "name": "Maasai Mara National Reserve",
+      "imageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Africa-Kenya-Masai-Mara-Cheetah-on-termite-mound.jpg",
+      "description": "One of the most famous safari destinations in Africa, offering unparalleled wildlife viewing, especially during the Great Migration.",
+      "ticket": "https://www.masaimara.travel/park-entry-fees.php"
+    },
+    {
+      "name": "The Great Migration",
+      "imageUrl": "https://www.masaimara.com/assets/img/great-migration-masai-mara-kenya.jpg",
+      "description": "The incredible annual migration of millions of wildebeest and zebras, crossing the Mara River, is one of nature's most dramatic events.",
+      "ticket": "https://www.masaimara.travel/park-entry-fees.php"
+    },
+    {
+      "name": "Hot Air Balloon Safari",
+      "imageUrl": "https://www.kabiraugandasafaris.com/wp-content/uploads/2021/09/Hot-Air-Balloon-Masai-Mara-Kenya.jpg",
+      "description": "A thrilling way to experience the Maasai Mara from above, offering stunning views of wildlife and the savannah during sunrise.",
+      "ticket": "https://masaimaraballoonsafaris.com/book/hot-air-ride/"
+    }
+]
+},
+
+{
+  "name": "Luxembourg City",
+  "country": "Luxembourg",
+  "attractions": [
+    {
+      "name": "Luxembourg City Old Town",
+      "imageUrl": "https://ipanematravels.com/wp-content/uploads/2020/11/Luxembourg-City-Old-Town.jpg",
+      "description": "A UNESCO World Heritage site, the Old Town offers stunning views, historical sites, and charming streets to explore.",
+      "ticket": "free"
+    },
+    {
+      "name": "Bock Casemates",
+      "imageUrl": "https://www.luxembourg-city.com/thumbs/a90e2440-290e-11ed-af99-bb4b92c04cbe-lg.jpeg",
+      "description": "A vast underground network of tunnels, offering a fascinating glimpse into Luxembourg's military history and incredible views of the city.",
+      "ticket": "https://www.luxembourg-city.com/en/place/tour/bock-casemates"
+    },
+    {
+      "name": "Grand Ducal Palace",
+      "imageUrl": "https://assets.prod.app.luxembourg-city.com/data/media/7f92af57-3455-486e-aed4-02b35fc020f0.jpg",
+      "description": "The official residence of the Grand Duke of Luxembourg, the Grand Ducal Palace is a stunning architectural masterpiece located in the heart of the city.",
+      "ticket": "https://monarchie.lu/en/visit-grand-ducal-palace"
+    }
+  ]
+},
+{
+  "name": "Ettelbruck",
+  "country": "Luxembourg",
+  "attractions": [
+    {
+      "name": "National Museum of Military History",
+      "imageUrl": "https://chronicle.lu/images/2024/Nov/20241107_diekirch-80-years-liberation-mnhm-JC-600-450.jpg",
+      "description": "A museum dedicated to Luxembourg's military history, particularly its role during World War II, featuring impressive exhibitions and artifacts.",
+      "ticket": "https://www.visitluxembourg.com/place/national-museum-of-military-history-diekirch"
+    },
+    {
+      "name": "The American Cementery Memorial",
+      "imageUrl": "https://d3w13n53foase7.cloudfront.net/small_Luxembourg_American_Cemetery_1_40604e9669.jpg",
+      "description": "A memorial to the American soldiers who died in Luxembourg during the Battle of the Bulge in World War II, located in a serene and reflective setting.",
+      "ticket": "free"
+    },
+    {
+      "name": "Clervaux Castle",
+      "imageUrl": "https://tripjive.com/wp-content/uploads/2024/06/How-can-I-get-to-Clervaux-Castle.jpg",
+      "description": "A historical castle located in the town of Clervaux, now home to several museums, including an exhibit dedicated to the Battle of the Bulge.",
+      "ticket": "https://www.clervaux.lu/fr/visiter/culture-et-arts/musee-bataille-et-chateaux"
+    }
+  ]
+},
+{
+  "name": "Vianden",
+  "country": "Luxembourg",
+  "attractions": [
+    {
+      "name": "Vianden Castle",
+      "imageUrl": "https://castle-vianden.lu/wp-content/uploads/2020/04/ViandenCastle_autumm-1-von-1-scaled.jpg",
+      "description": "One of the largest and most beautiful castles in Luxembourg, Vianden Castle offers breathtaking views and an immersive look into medieval life.",
+      "ticket": "https://castle-vianden.lu/gb/besuch/#1589460808848-d315096b-183e"
+    },
+    {
+      "name": "The Victor Hugo Museum",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e1/5f/7d/victorhugo.jpg?w=1200&h=-1&s=1",
+      "description": "Located in the house where the famous French writer Victor Hugo lived during his exile, the museum offers insight into his life and works.",
+      "ticket": "https://www.visitluxembourg.com/place/victor-hugo-house-literary-museum"
+    },
+    {
+      "name": "Vianden Chairlift",
+      "imageUrl": "https://www.visitluxembourg.com/images/a0r6UIqPbnc/rs:fill:2500:0/cb:/g:ce/aHR0cHM6Ly9sdXhlbWJ1cmcuaW14cGxhdGZvcm0uZGUvZGF0YS9jaGFpcmxpZnQtdmlhbmRlbi10cmF2ZWwtd2l0aC1iZW5kZXIuanBn",
+      "description": "A scenic chairlift offering stunning views of the town of Vianden and the surrounding Ardennes forest.",
+      "ticket": "https://www.visitluxembourg.com/place/chairlift-vianden"
+    }
+  ]
+},
+{
+  "name": "Beirut",
+  "country": "Lebanon",
+  "attractions": [
+    {
+      "name": "Pigeon Rocks",
+      "imageUrl": "https://mediaim.expedia.com/destination/1/2156c2037c0260d6cd41e3431471c685.jpg",
+      "description": "An iconic landmark in Beirut, the Pigeon Rocks are dramatic natural rock formations standing in the Mediterranean Sea, offering stunning views.",
+      "ticket": "free"
+    },
+    {
+      "name": "National Museum of Beirut",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bb/1c/13/entrance-level-0.jpg?w=900&h=500&s=1",
+      "description": "This museum houses a rich collection of archaeological artifacts, showcasing Lebanon’s history from ancient to medieval times.",
+      "ticket": "https://www.visit-lebanon.org/leisure/touristic-attractions?param1=220"
+    },
+    {
+      "name": "Muhammad Al-Amin Mosque",
+      "imageUrl": "https://ucarecdn.com/f8911633-afa2-4a5c-9a74-6cbb52c46895/-/crop/2000x1050/0,254/-/resize/1200x630/-/resize/x400/",
+      "description": "A stunning mosque in the heart of Beirut, known for its impressive blue dome and architectural beauty, standing as a symbol of the city’s heritage.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "attractions": [
+    {
+      "name": "Vilnius Old Town",
+      "imageUrl": "https://static.independent.co.uk/2022/01/19/17/iStock-1175456566.jpg?width=1200&height=900&fit=crop",
+      "description": "A UNESCO World Heritage Site, Vilnius Old Town is known for its cobblestone streets, historic buildings, and beautiful baroque architecture.",
+      "ticket": "free"
+    },
+    {
+      "name": "Gediminas' Tower",
+      "imageUrl": "https://www.govilnius.lt/images/5ea6aeeb4a97c4372591f47e?w=750&h=500",
+      "description": "A symbol of Lithuania's independence, Gediminas' Tower offers panoramic views of Vilnius and the surrounding landscape.",
+      "ticket": "https://lnm.lt/en/museums/gediminas-castle-tower/"
+    },
+    {
+      "name": "Vilnius Cathedral",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8c/f0/7d/outside-the-cathedral.jpg?w=1200&h=-1&s=1",
+      "description": "An important religious and historical monument, this cathedral is a fine example of neoclassical architecture and is located in the heart of Vilnius.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Kaunas",
+  "country": "Lithuania",
+  "attractions": [
+    {
+      "name": "Kaunas Old Town",
+      "imageUrl": "https://mediaim.expedia.com/destination/2/221b2c994c820951d1184dee6f296b94.jpg",
+      "description": "A charming area filled with cobblestone streets, medieval buildings, and quaint squares, reflecting Kaunas' rich history and culture.",
+      "ticket": "free"
+    },
+    {
+      "name": "Kaunas Castle",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/96/f5/80/kaunas-castle.jpg?w=1200&h=-1&s=1",
+      "description": "The medieval Kaunas Castle is a must-see attraction, offering a glimpse into the city's past and spectacular views of the Neman River.",
+      "ticket": "https://kaunomuziejus.lt/en/plan-your-visit-to-kaunas-castle/"
+    },
+    {
+      "name": "Devil's Museum",
+      "imageUrl": "https://thirdeyetraveller.com/wp-content/uploads/STMICHAELCASTLE-21-of-31-689x551.jpg",
+      "description": "A unique museum dedicated to showcasing over 3,000 devil-related artifacts from different cultures, making it a one-of-a-kind attraction.",
+      "ticket": "https://ciurlionis.lt/veiklos/lankytojams/bendra-informacija-br-bilietu-kainos/"
+    }
+  ]
+},
+{
+  "name": "Kuala Lumpur",
+  "country": "Malaysia",
+  "attractions": [
+    {
+      "name": "Petronas Twin Towers",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Twins_SE_Asia_2019_%2849171985716%29_%28cropped%29_2.jpg/250px-The_Twins_SE_Asia_2019_%2849171985716%29_%28cropped%29_2.jpg",
+      "description": "One of the tallest twin buildings in the world, the Petronas Twin Towers are an iconic symbol of Kuala Lumpur and offer stunning city views.",
+      "ticket": "https://eticket.petronastwintowers.com.my/"
+    },
+    {
+      "name": "Batu Caves",
+      "imageUrl": "https://www.calloftheworld.com/wp-content/uploads/2024/08/Batu-Caves-900-x-1125.jpg",
+      "description": "A series of limestone caves housing Hindu shrines, Batu Caves is a popular religious site and a famous tourist attraction.",
+      "ticket": "free"
+    },
+    {
+      "name": "Merdeka Square",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/22/88/9b/caption.jpg?w=900&h=500&s=1",
+      "description": "A historical landmark, Merdeka Square is where Malaysia declared its independence in 1957. It is surrounded by colonial-era buildings.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Penang",
+  "country": "Malaysia",
+  "attractions": [
+    {
+      "name": "George Town UNESCO Heritage Site",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d7/cb/7a.jpg",
+      "description": "George Town is a UNESCO World Heritage Site known for its well-preserved colonial architecture, street art, and vibrant food culture.",
+      "ticket": "https://www.viator.com/tours/Penang/Private-George-Town-UNESCO-Heritage-Walking-Tour/d339-29580P65"
+    },
+    {
+      "name": "Kek Lok Si Temple",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/57/bb/e1/img-20190120-102733-largejpg.jpg?w=1200&h=1200&s=1",
+      "description": "One of the largest and most beautiful Buddhist temples in Southeast Asia, Kek Lok Si is known for its intricate architecture and giant statue of the Goddess of Mercy.",
+      "ticket": "free"
+    },
+    {
+      "name": "Penang Hill",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4b/a4/10/caption.jpg?w=1200&h=-1&s=1",
+      "description": "Offering stunning views of the island, Penang Hill is a cool escape from the tropical heat, accessible via a funicular railway.",
+      "ticket": "https://www.penanghill.gov.my/index.php/en/tickets"
+    }
+  ]
+},
+{
+  "name": "Langkawi",
+  "country": "Malaysia",
+  "attractions": [
+    {
+      "name": "Langkawi Sky Bridge",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2b/e0/07/langkawi-sky-bridge.jpg?w=900&h=500&s=1",
+      "description": "A stunning 125-meter-long curved pedestrian bridge offering breathtaking views of Langkawi's islands and mountains.",
+      "ticket": "https://www.langkawibook.my/attractions/langkawi-skycab-cable-car"
+    },
+    {
+      "name": "Pantai Cenang",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/dd/a4/35/photo9jpg.jpg?w=900&h=-1&s=1",
+      "description": "A popular beach destination, Pantai Cenang is known for its white sand, water sports, and vibrant nightlife.",
+      "ticket": "free"
+    },
+    {
+      "name": "Langkawi Wildlife Park & Bird Paradise",
+      "imageUrl": "https://media1.thrillophilia.com/filestore/ew9lfgtlexwriijk84irmbtx1yh2_kelxinhh5ualhxed7zh5n59intp9_WhatsApp%20Image%202016-09-25%20at%2011.46.59.webp",
+      "description": "A family-friendly attraction, this park features a variety of exotic animals and colorful birds in a tropical setting.",
+      "ticket": "https://langkawiwildlifepark.com.my/product/standard-ticket-non-malaysian/"
+    }
+  ]
+},
+{
+  "name": "Manila",
+  "country": "Philippines",
+  "attractions": [
+    {
+      "name": "Intramuros",
+      "imageUrl": "https://images.trvl-media.com/localexpert/47124556/4e1c739d-f6a2-4a36-9afb-1452dd419d35.jpg?impolicy=resizecrop&rw=1005&rh=565",
+      "description": "The historic walled city of Manila, featuring colonial architecture, museums, and landmarks like Fort Santiago and San Agustin Church.",
+      "ticket": "https://intramuros.gov.ph/hours/"
+    },
+    {
+      "name": "Rizal Park",
+      "imageUrl": "https://media.tacdn.com/media/attractions-content--1x-1/0b/df/02/74.jpg",
+      "description": "A sprawling urban park dedicated to national hero José Rizal, offering gardens, monuments, and open spaces for leisure activities.",
+      "ticket": "free"
+    },
+    {
+      "name": "National Museum of the Philippines",
+      "imageUrl": "https://bluedreamer27.com/wp-content/uploads/2019/06/48055355693_9b6e290d9f_c-800x445.jpg",
+      "description": "A museum complex showcasing Filipino art, culture, and history, including the National Museum of Fine Arts and the National Museum of Anthropology.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Cebu City",
+  "country": "Philippines",
+  "attractions": [
+    {
+      "name": "Basilica del Santo Niño",
+      "imageUrl": "https://hellocebuph.com/wp-content/uploads/2024/04/Basilica-Minore-del-Santo-Nino-de-Cebu-2018-820x606.webp",
+      "description": "The oldest Roman Catholic church in the Philippines, housing a revered statue of the Santo Niño (Child Jesus).",
+      "ticket": "free"
+    },
+    {
+      "name": "Magellan's Cross",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/489000/489252-magellans-cross.jpg",
+      "description": "A historic Christian cross planted by Portuguese and Spanish explorers, marking the arrival of Christianity in the Philippines.",
+      "ticket": "free"
+    },
+    {
+      "name": "Taoist Temple",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b9/2c/d5/photo0jpg.jpg?w=900&h=500&s=1",
+      "description": "A colorful temple built by Cebu's Chinese community, offering panoramic views of the city and insights into Taoist rituals.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Davao City",
+  "country": "Philippines",
+  "attractions": [
+    {
+      "name": "Philippine Eagle Center",
+      "imageUrl": "https://www.tripsavvy.com/thmb/lVTutL6XPpqNwHmYlOBZQJMPyoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eaglecenter_01-56a40c7f5f9b58b7d0d524f7.JPG",
+      "description": "A conservation center dedicated to the Philippine Eagle, offering visitors a chance to see the critically endangered bird up close.",
+      "ticket": "https://book.philippineeaglefoundation.org/"
+    },
+    {
+      "name": "People's Park",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/85/9f/f1/caption.jpg?w=700&h=-1&s=1",
+      "description": "A well-maintained urban park featuring sculptures, gardens, and a mini-forest, reflecting the cultural heritage of Davao.",
+      "ticket": "free"
+    },
+    {
+      "name": "Davao Crocodile Park",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/9b/65/55/crocodile-park.jpg?w=1200&h=-1&s=1",
+      "description": "A wildlife park showcasing crocodiles and other animals, offering educational tours and interactive experiences.",
+      "ticket": "https://www.facebook.com/davaocrocodileparkandzoo/"
+    }
+  ]
+},
+{
+  "name": "Warsaw",
+  "country": "Poland",
+  "attractions": [
+    {
+      "name": "Old Town (Stare Miasto)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/db/72/f1/photo0jpg.jpg?w=900&h=500&s=1",
+      "description": "A meticulously reconstructed historic district, featuring cobblestone streets, colorful townhouses, and landmarks like the Royal Castle and Market Square.",
+      "ticket": "free"
+    },
+    {
+      "name": "Łazienki Park",
+      "imageUrl": "https://s.inyourpocket.com/gallery/295850.jpg",
+      "description": "The largest park in Warsaw, home to the Palace on the Isle, amphitheaters, and peacocks roaming the scenic gardens.",
+      "ticket": "free"
+    },
+    {
+      "name": "POLIN Museum of the History of Polish Jews",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/602f9c723f64f.jpeg/146.jpg",
+      "description": "A modern museum showcasing the 1,000-year history of Polish Jews through interactive exhibits and personal narratives.",
+      "ticket": "https://polin.pl/en/planning-your-visit/admission"
+    }
+  ]
+},
+{
+  "name": "Kraków",
+  "country": "Poland",
+  "attractions": [
+    {
+      "name": "Wawel Royal Castle",
+      "imageUrl": "https://media1.thrillophilia.com/filestore/ckw0rc4b67kqkddd22bdxgxbzru4_shutterstock_1500934991.jpg",
+      "description": "A historic castle complex that served as the residence of Polish kings, featuring state rooms, a cathedral, and art collections.",
+      "ticket": "https://wawel.krakow.pl/en/hours-tickets-reservations-luggage"
+    },
+    {
+      "name": "Main Market Square (Rynek Główny)",
+      "imageUrl": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1649039964/std7im4inahc70wxdkkt.jpg",
+      "description": "One of the largest medieval squares in Europe, surrounded by historic buildings, churches, and the Cloth Hall (Sukiennice).",
+      "ticket": "free"
+    },
+    {
+      "name": "Kazimierz District",
+      "imageUrl": "https://cdn.tourdesk.io/activity-gallery/621b1987ec444b0fb3abe563fcf76e74_main_slider.jpg",
+      "description": "The historic Jewish quarter, now a vibrant area known for its synagogues, trendy cafes, art galleries, and cultural festivals.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Gdańsk",
+  "country": "Poland",
+  "attractions": [
+    {
+      "name": "Old Town (Stare Miasto)",
+      "imageUrl": "https://powertraveller.com/wp-content/uploads/2024/08/2_gdansk-old-town-tour-with-amber-altar-tickets-and-guide.jpg",
+      "description": "A picturesque area with colorful facades, historic churches, and the iconic Neptune Fountain at the Long Market (Długi Targ).",
+      "ticket": "free"
+    },
+    {
+      "name": "Museum of the Second World War",
+      "imageUrl": "https://image.wmsm.co/5c641a62c37b2/og-image.jpg?quality=80&width=1200&height=630&aspect_ratio=1200%3A630",
+      "description": "A comprehensive museum detailing the events of World War II, with extensive exhibits and personal stories.",
+      "ticket": "https://muzeum1939.pl/en/buying-tickets.html"
+    },
+    {
+      "name": "St. Mary's Church (Bazylika Mariacka)",
+      "imageUrl": "https://mariacki.com/wp-content/uploads/dsc_8427-hdr_1okm-e1598170474135.jpg",
+      "description": "One of the largest brick churches in the world, featuring impressive Gothic architecture and panoramic city views from its tower.",
+      "ticket": "https://mariacki.com/en/tourists/"
+    }
+  ]
+},
+{
+  "name": "Lisbon",
+  "country": "Portugal",
+  "attractions": [
+    {
+      "name": "Belém Tower",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3f/e6/89/torre-de-belem.jpg?w=900&h=500&s=1",
+      "description": "A 16th-century fortress and UNESCO World Heritage Site that once served as a defense system and a gateway to Lisbon.",
+      "ticket": "https://torrebelem.com/en/tour/torre-belem-skip-the-line-tickets/"
+    },
+    {
+      "name": "Jerónimos Monastery",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/4315213971783a1e40363712dda0d182-Jero-nimosMonasteryfrontview.jpg?auto=format&w=780&h=384&q=90&fit=crop&ar=16%3A10",
+      "description": "An architectural masterpiece of the Manueline style, housing the tomb of explorer Vasco da Gama.",
+      "ticket": "https://www.jeronimosmonasterytickets.com/"
+    },
+    {
+      "name": "Alfama District",
+      "imageUrl": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1647233120/yw7ptkazskzcgdoejph0.jpg",
+      "description": "The oldest neighborhood in Lisbon, famous for its narrow streets, Fado music, and stunning viewpoints.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Porto",
+  "country": "Portugal",
+  "attractions": [
+    {
+      "name": "Livraria Lello",
+      "imageUrl": "https://thirdeyetraveller.com/wp-content/uploads/Livraria-Lello-Porto-36.jpg",
+      "description": "One of the most beautiful bookstores in the world, known for its neo-Gothic design and stunning red staircase.",
+      "ticket": "https://www.livrarialello.pt/en/store/ticket-voucher"
+    },
+    {
+      "name": "Dom Luís I Bridge",
+      "imageUrl": "https://images.resosys.com/destinations/12/articles/dom-luis-bridge_en/inline/1680177434-screen_2x-2023-02-24t090947.776.jpg",
+      "description": "An iconic double-deck metal arch bridge offering breathtaking views of Porto and the Douro River.",
+      "ticket": "free"
+    },
+    {
+      "name": "Ribeira District",
+      "imageUrl": "https://porto.travel/wp-content/uploads/sites/12/2018/03/ribeira-oporto-1-scaled.jpeg",
+      "description": "A UNESCO-listed area filled with colorful houses, riverfront cafes, and historic charm.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Sintra",
+  "country": "Portugal",
+  "attractions": [
+    {
+      "name": "Pena Palace",
+      "imageUrl": "https://wetravelportugal.com/wp-content/uploads/pena-palace-sintra-1024x768.jpg",
+      "description": "A fairy-tale palace set on a hilltop, known for its vibrant colors, romantic architecture, and scenic views.",
+      "ticket": "https://www.parquesdesintra.pt/en/plan-your-visit/tickets-palace-of-pena/"
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/a4078e975b385e552ea0509af4d857ba-quintareg-01.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces",
+      "description": "A mystical estate featuring underground tunnels, secret passageways, and the famous Initiation Well.",
+      "ticket": "https://regaleira.byblueticket.pt/"
+    },
+    {
+      "name": "Moorish Castle",
+      "imageUrl": "https://www.parquesdesintra.pt/media/sg2ofbm5/parques_de_sintra_castelo_dos_mouros.jpeg?width=750&height=750&format=webp&quality=90&rnd=133155066867970000",
+      "description": "An ancient fortress offering panoramic views of Sintra and the surrounding landscape.",
+      "ticket": "https://www.parquesdesintra.pt/en/parks-monuments/the-moorish-castle/"
+    }
+  ]
+},
+{
+  "name": "Moscow",
+  "country": "Russia",
+  "attractions": [
+    {
+      "name": "Red Square",
+      "imageUrl": "https://i.natgeofe.com/n/442cba98-0678-4bb2-8a9a-46fb28b8e892/kremlin-red-square-moscow-russia.jpg",
+      "description": "Moscow's historic central square, home to iconic landmarks like the Kremlin and St. Basil's Cathedral.",
+      "ticket": "free"
+    },
+    {
+      "name": "St. Basil's Cathedral",
+      "imageUrl": "https://www.rusalia.com/wp-content/uploads/2016/07/Catedral-San-Basilio-Moscu-1-1004x1024.jpg",
+      "description": "A world-famous Russian Orthodox church known for its colorful onion domes and intricate architecture.",
+      "ticket": "https://en.shm.ru/museum/hvb/"
+    },
+    {
+      "name": "The Kremlin",
+      "imageUrl": "https://www.rusalia.com/wp-content/uploads/2015/08/Kremlin-de-Mosc%C3%BA-Imagen-destacada1.jpg",
+      "description": "A historic fortified complex that houses the Russian government, cathedrals, and museums.",
+      "ticket": "https://www.kreml.ru/en-Us/visit-to-kremlin/?utm_source=google.com&utm_medium=organic&utm_campaign=google.com&utm_referrer=google.com"
+    }
+  ]
+},
+{
+  "name": "Saint Petersburg",
+  "country": "Russia",
+  "attractions": [
+    {
+      "name": "The Hermitage Museum",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/70/5d/a6/caption.jpg?w=1200&h=-1&s=1",
+      "description": "One of the world's largest and most prestigious art museums, featuring works from Da Vinci to Van Gogh.",
+      "ticket": "https://www.hermitagemuseum.org/tickets"
+    },
+    {
+      "name": "Peterhof Palace",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6b/da/3e/peterhof-palace-and-garden.jpg?w=1200&h=-1&s=1",
+      "description": "A stunning palace complex known as the 'Russian Versailles' with lavish gardens and fountains.",
+      "ticket": "https://tickets.peterhofmuseum.ru/?id=13&sid=340&lang=en"
+    }
+  ]
+},
+{
+  "name": "Sochi",
+  "country": "Russia",
+  "attractions": [
+    {
+      "name": "Sochi Olympic Park",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c2/b3/aa/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A sports complex built for the 2014 Winter Olympics, featuring arenas, a Formula 1 circuit, and a theme park.",
+      "ticket": "https://www.sochipark.ru/en/tickets/tickets-policy/"
+    },
+    {
+      "name": "Rosa Khutor Ski Resort",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/bf/03/4a/1100.jpg?w=1200&h=-1&s=1",
+      "description": "A world-class ski resort in the Caucasus Mountains, offering winter sports and breathtaking scenery.",
+      "ticket": "https://www.snow-online.com/ski-resort/rosa-khutor_lift-ticket-prices.html"
+    }
+  ]
+},
+{
+  "name": "Kigali",
+  "country": "Rwanda",
+  "attractions": [
+    {
+      "name": "Kigali Genocide Memorial",
+      "imageUrl": "https://www.aegistrust.org/wp-content/uploads/2015/03/Screen-Shot-2015-03-11-at-07.35.11-e1426079119318.png",
+      "description": "A somber yet educational memorial dedicated to the victims of the 1994 Rwandan genocide.",
+      "ticket": "https://kgm.rw/visit/book-now/"
+    },
+    {
+      "name": "Inema Arts Center",
+      "imageUrl": "https://livinginkigali.com/wp-content/uploads/2013/09/Inema_Art_Center_LIk.jpg",
+      "description": "A vibrant hub for contemporary Rwandan art, showcasing local talent and creativity.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Musanze",
+  "country": "Rwanda",
+  "attractions": [
+    {
+      "name": "Volcanoes National Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Volcanoes_National_Park_Banner_Image.gif/1200px-Volcanoes_National_Park_Banner_Image.gif",
+      "description": "Home to endangered mountain gorillas, this park offers unforgettable trekking experiences.",
+      "ticket": "https://www.volcanoesnationalpark.org/park-fees/"
+    },
+    {
+      "name": "Dian Fossey Gorilla Fund",
+      "imageUrl": "https://massdesigngroup.org/sites/default/files/styles/hero/public/2022-05/1811_N106_indd_0.jpg?itok=fob3fJhp",
+      "description": "A conservation center dedicated to gorilla protection and education about their habitat.",
+      "ticket": "https://massdesigngroup.org/sites/default/files/styles/hero/public/2022-05/1811_N106_indd_0.jpg?itok=fob3fJhp"
+    }
+  ]
+},
+{
+  "name": "Bucharest",
+  "country": "Romania",
+  "attractions": [
+    {
+      "name": "Palace of Parliament",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/57/f3/5d.jpg",
+      "description": "One of the largest administrative buildings in the world, known for its grand architecture.",
+      "ticket": "http://cic.cdep.ro/en/opening-hours-and-tariffs"
+    },
+    {
+      "name": "Old Town Bucharest",
+      "imageUrl": "https://visitbucharest.today/wp-content/uploads/2020/07/old-town-1.jpg",
+      "description": "A lively district filled with historic buildings, charming cafes, and vibrant nightlife.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Brasov",
+  "country": "Romania",
+  "attractions": [
+    {
+      "name": "Bran Castle",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/a6/f9.jpg",
+      "description": "Often associated with Dracula, this medieval fortress is a top tourist destination in Romania.",
+      "ticket": "https://bran-castle.com/visit/"
+    },
+    {
+      "name": "Black Church",
+      "imageUrl": "https://romaniatourstore.com/wp-content/uploads/2024/12/Biserica_Neagra_Brasov_Romania.jpg",
+      "description": "A Gothic-style church dating back to the 14th century, known for its impressive organ concerts.",
+      "ticket": "https://bisericaneagra.ro/en/program/"
+    }
+  ]
+},
+{
+  "name": "Riyadh",
+  "country": "Saudi Arabia",
+  "attractions": [
+    {
+      "name": "Masmak Fortress",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b9/25/09/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A historic clay and mud-brick fort that played a pivotal role in the kingdom's history.",
+      "ticket": "free"
+    },
+    {
+      "name": "Kingdom Centre Tower",
+      "imageUrl": "https://www.timeoutriyadh.com/cloud/timeoutriyadh/2021/11/11/Riyadh-close-up-of-Kingdom-Tower-1024x683.jpg",
+      "description": "A 99-story skyscraper with a distinctive design, offering an observation deck with panoramic city views.",
+      "ticket": "https://kingdomcentre.com.sa/shopping/sky-bridge/"
+    },
+    {
+      "name": "National Museum",
+      "imageUrl": "https://saudiarabiatours.net/wp-content/uploads/2024/02/the-national-museum-of-saudi-arabia-desktop-1-1024x576.jpg",
+      "description": "A museum showcasing Saudi Arabia's rich cultural and historical heritage.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Jeddah",
+  "country": "Saudi Arabia",
+  "attractions": [
+    {
+      "name": "Al-Balad",
+      "imageUrl": "https://saudiarabiatours.net/wp-content/uploads/2024/03/Al-Balad-1024x682.webp",
+      "description": "The historical area of Jeddah, known for its traditional architecture and vibrant souks.",
+      "ticket": "free"
+    },
+    {
+      "name": "King Fahd's Fountain",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/d3/4e/25/illuminate-the-fountain.jpg?w=800&h=-1&s=1&cx=337&cy=320&chk=v1_012cd5d51096d2b363aa",
+      "description": "The tallest fountain in the world, jetting water up to 312 meters into the air.",
+      "ticket": "free"
+    },
+    {
+      "name": "Red Sea Mall",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b8/fd/4d/caption.jpg?w=900&h=500&s=1",
+      "description": "One of the largest shopping centers in Jeddah, offering a variety of international brands and dining options.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Mecca",
+  "country": "Saudi Arabia",
+  "attractions": [
+    {
+      "name": "Masjid al-Haram",
+      "imageUrl": "https://themedialine.org/wp-content/uploads/2021/01/https___cdn.evbuc_.com_images_121810001_84203646226_1_original.jpg",
+      "description": "The largest mosque in the world, surrounding Islam's holiest site, the Kaaba.",
+      "ticket": "free"
+    },
+    {
+      "name": "Abraj Al Bait",
+      "imageUrl": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/07/02/e3e45b051f958b85fdf5137365064319_1000x1000.jpg",
+      "description": "A government-owned complex featuring hotels, shopping malls, and the Makkah Clock Tower.",
+      "ticket": "https://www.makemytrip.com/tripideas/attractions/clock-tower-museum"
+    },
+    {
+      "name": "Jabal al-Nour",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/6f/73/86/jabl-e-noor.jpg?w=900&h=-1&s=1",
+      "description": "A mountain near Mecca, known for the Hira cave where Prophet Muhammad received his first revelation.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Singapore",
+  "country": "Singapore",
+  "attractions": [
+    {
+      "name": "Marina Bay Sands",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/d2e9c3590e54f929186716d926bd6406-7371-singapore-ticket-to-marina-bay-sands-skypark-observation-deck-03.jpg?fm=pjpg&auto=compress&w=1200&crop=faces&fit=min",
+      "description": "An integrated resort featuring a hotel, casino, shopping mall, and the iconic SkyPark.",
+      "ticket": "https://www.marinabaysands.com/attractions/search.html"
+    },
+    {
+      "name": "Gardens by the Bay",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_728/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/hdn7gcwuusknetn9nist/GardensbytheBayTicket.jpg",
+      "description": "A nature park spanning 101 hectares, known for its futuristic Supertree Grove and biodomes.",
+      "ticket": "https://www.gardensbythebay.com.sg/en/frequently-asked-questions/general.html#gbb-accordion-3d4885733e-item-18a1c461cd"
+    },
+    {
+      "name": "Sentosa Island",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/db6db2b3c8ff8558c2f86919cfea4405-7359-singapore-sentosa-fun-pass-03.jpg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10",
+      "description": "A resort island offering attractions like Universal Studios, beaches, and luxury resorts.",
+      "ticket": "https://www.sentosa.com.sg/en/faqs/"
+    }
+  ]
+},
+{
+  "name": "Cape Town",
+  "country": "South Africa",
+  "attractions": [
+    {
+      "name": "Table Mountain",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/83/5a/fb/enjoy-360-degree-views.jpg?w=900&h=500&s=1",
+      "description": "A flat-topped mountain offering hiking trails and a cable car with panoramic city views.",
+      "ticket": "https://www.tablemountain.net/plan-your-visit/buy-tickets"
+    },
+    {
+      "name": "Robben Island",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/68/8c.jpg",
+      "description": "A UNESCO World Heritage Site, known for its prison that once held Nelson Mandela.",
+      "ticket": "https://www.robben-island.org.za/tour-types/"
+    },
+    {
+      "name": "V&A Waterfront",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/cb/13/bc/victoria-alfred-waterfront.jpg?w=900&h=500&s=1",
+      "description": "A bustling harbor area with shops, restaurants, and entertainment venues.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Johannesburg",
+  "country": "South Africa",
+  "attractions": [
+    {
+      "name": "Apartheid Museum",
+      "imageUrl": "https://content.webtickets.co.za/Apartheidmuseum/banner_APM.jpg",
+      "description": "A museum illustrating the rise and fall of apartheid in South Africa.",
+      "ticket": "https://www.apartheidmuseum.org/about-the-museum/visitor-information"
+    },
+    {
+      "name": "Gold Reef City",
+      "imageUrl": "https://www.goldreefcity.co.za/wp-content/uploads/2020/09/Gold-Reef-City-Link-Thumbnail.jpg",
+      "description": "An amusement park and casino themed around the gold rush era.",
+      "ticket": "https://www.goldreefcity.co.za/theme-park/prices-tickets/"
+    },
+    {
+      "name": "Soweto & Mandela House",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1f/77/5d/photo0jpg.jpg?w=900&h=500&s=1",
+      "description": "A vibrant township offering deep insights into South Africa's history, including Nelson Mandela's former residence.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Durban",
+  "country": "South Africa",
+  "attractions": [
+    {
+      "name": "uShaka Marine World",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ac/71/b9/dolphin-show.jpg?w=700&h=400&s=1",
+      "description": "A marine theme park featuring an aquarium, water rides, and dolphin shows.",
+      "ticket": "https://ushakamarine.com/ratesandtimes/"
+    },
+    {
+      "name": "Moses Mabhida Stadium",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c8/4b/6e/moses-mabhida-with-top.jpg?w=1200&h=1200&s=1",
+      "description": "A multi-use stadium known for its iconic arch, offering adventure activities like the Big Swing.",
+      "ticket": "https://www.tripadvisor.com/Attraction_Review-g312595-d2507204-Reviews-Moses_Mabhida_Stadium-Durban_KwaZulu_Natal.html"
+    },
+    {
+      "name": "Durban Botanic Gardens",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d8/56/54/landscape-gardens.jpg?w=900&h=-1&s=1",
+      "description": "Africa's oldest surviving botanical gardens, showcasing a diverse collection of flora.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Madrid",
+  "country": "Spain",
+  "attractions": [
+    {
+      "name": "Prado Museum",
+      "imageUrl": "https://thetourguy.com/wp-content/uploads/2022/03/how-to-visit-the-prado-museum-in-madrid-900x420.jpg",
+      "description": "One of the world's premier art museums featuring works by Spanish masters.",
+      "ticket": "https://museodelprado-tickets.org/en/?gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goIpCeuXOOUxrxawLGuAouxYqwXVOt50mZdah2JwEa-a_R77bSUiw6RoC41UQAvD_BwE"
+    },
+    {
+      "name": "Royal Palace of Madrid",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/68d9aa77c4d16a910bb2a6cd0d7d6fb7-Royal%20Palace%20Of%20Madrid%202.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces",
+      "description": "A grand palace with lavish interiors and historical significance.",
+      "ticket": "https://tickets.patrimonionacional.es/en/tickets/palacio-real-de-madrid"
+    },
+    {
+      "name": "Retiro Park",
+      "imageUrl": "https://madridpourvous.com/wp-content/uploads/2018/01/Estanque-Grande-Retiro-Madrid.jpg",
+      "description": "A peaceful green space perfect for walks, boat rides, and picnics.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Barcelona",
+  "country": "Spain",
+  "attractions": [
+    {
+      "name": "Sagrada Familia",
+      "imageUrl": "https://amigotours.com/wp-content/uploads/sites/4285/2023/10/sagrada-familia-ticket.jpg?w=700&h=700&zoom=2",
+      "description": "An iconic basilica designed by Antoni Gaudí, still under construction since 1882.",
+      "ticket": "https://www.sagradafamiliatickets.org/en/?gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goNtxoR-YWIBXJ9KkDAfVLYKSsGpPFXYmjL7o3izCcwD3LnYfKYClTxoCw9AQAvD_BwE"
+    },
+    {
+      "name": "Park Güell",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/5f0dbefc676e0.jpeg/146.jpg",
+      "description": "A public park showcasing Gaudí's unique architectural style with colorful mosaics and structures.",
+      "ticket": "https://parkguell-entradas.org/en/?gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goGJGbROvsb0lH04VS5wGve1uXbYt-gWNJ2idzh45iKDcwVtXsJm4bxoCapQQAvD_BwE"
+    },
+    {
+      "name": "La Rambla",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/15/0e/35/87.jpg",
+      "description": "A lively street in central Barcelona, popular among tourists and locals alike.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Seville",
+  "country": "Spain",
+  "attractions": [
+    {
+      "name": "Alcázar of Seville",
+      "imageUrl": "https://cdn-imgix.headout.com/tour/17281/TOUR-IMAGE/5274648a-9cd9-47c1-a8f3-e0237f50bd5f-9540-seville-fast-track-access-to-the-alcazar-of-seville-01.jpg",
+      "description": "A royal palace originally developed by Moorish Muslim kings, renowned for its stunning architecture.",
+      "ticket": "https://realalcazarsevilla-tickets.org/en/?gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goFa9E425lv3N_Xw7GQvQT9nD_dznPYx50eOBEB5yreCkBfntqMiEdRoC3bkQAvD_BwE"
+    },
+    {
+      "name": "Plaza de España",
+      "imageUrl": "https://sevillecityguide.com/images/plaza-de-espana.jpg",
+      "description": "A grand square built for the Ibero-American Exposition of 1929, featuring a large fountain and canal.",
+      "ticket": "free"
+    },
+    {
+      "name": "Seville Cathedral",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/fff4034bcdc8ddf2b7a0bcea174711b7-Seville-Cathedral.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces",
+      "description": "The largest Gothic cathedral in the world, housing the tomb of Christopher Columbus.",
+      "ticket": "https://www.seville-cathedral-tickets.com/plan-your-visit/"
+    }
+  ]
+},
+{
+  "name": "Seoul",
+  "country": "South Korea",
+  "attractions": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "imageUrl": "https://www.agoda.com/wp-content/uploads/2019/05/Gyeongbokgung-palace-Seoul-architecture-view.jpg",
+      "description": "A historic palace and cultural landmark in the heart of Seoul.",
+      "ticket": "https://royal.cha.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg"
+    },
+    {
+      "name": "N Seoul Tower",
+      "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2022/08/03/720e87e8-323d-4c76-b3b4-6f47a54ea2f6-1659535835128-ceca35c982cbd30c90ff2427ee0f996a.jpg",
+      "description": "An iconic tower offering panoramic views of the city.",
+      "ticket": "https://www.nseoultower.co.kr/eng/visit/use2.asp"
+    },
+    {
+      "name": "Bukchon Hanok Village",
+      "imageUrl": "https://b1945558.smushcdn.com/1945558/wp-content/uploads/2019/12/bukchon-hanok-village-gahoe-dong-seoul-hanbok.jpg?lossy=2&strip=1&webp=1",
+      "description": "A traditional Korean village with preserved hanok houses.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Busan",
+  "country": "South Korea",
+  "attractions": [
+    {
+      "name": "Haeundae Beach",
+      "imageUrl": "https://static.wixstatic.com/media/0505b9_1d2eaff7eca54b3093d8a30337736c15~mv2.jpg/v1/fill/w_980,h_734,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0505b9_1d2eaff7eca54b3093d8a30337736c15~mv2.jpg",
+      "description": "A popular beach destination known for its expansive sandy shore and vibrant atmosphere.",
+      "ticket": "free"
+    },
+    {
+      "name": "Gamcheon Culture Village",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/5bc1c2fee2b11.jpeg/99.jpg",
+      "description": "A colorful hillside community featuring art installations and murals.",
+      "ticket": "free"
+    },
+    {
+      "name": "Jagalchi Fish Market",
+      "imageUrl": "https://media.tacdn.com/media/attractions-content--1x-1/0b/ef/2d/89.jpg",
+      "description": "South Korea's largest seafood market offering fresh catches and local delicacies.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Dar es Salaam",
+  "country": "Tanzania",
+  "attractions": [
+    {
+      "name": "National Museum and House of Culture",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/5ebbcffbb9f93.jpeg/146.jpg",
+      "description": "A museum showcasing Tanzania's rich cultural history, including archaeological finds and exhibits on local tribes.",
+      "ticket": "https://www.nmt.go.tz/pages/nmt-fees"
+    },
+    {
+      "name": "Dar es Salaam Marina",
+      "imageUrl": "https://d32f7pyncfosf1.cloudfront.net/1418/dar_es_salaam_marina_view.jpg",
+      "description": "A picturesque coastal area perfect for boat tours, offering views of the Indian Ocean.",
+      "ticket": "free"
+    },
+    {
+      "name": "Village Museum",
+      "imageUrl": "https://wildlifesafaritanzania.com/wp-content/uploads/2023/03/127050707_large-scaled.jpg",
+      "description": "An open-air museum featuring traditional houses and cultural exhibits of Tanzanian tribes.",
+      "ticket": "https://us.trip.com/travel-guide/attraction/dar-es-salaam/village-museum-18696688/"
+    }
+  ]
+},
+{
+  "name": "Zanzibar",
+  "country": "Tanzania",
+  "attractions": [
+    {
+      "name": "Stone Town",
+      "imageUrl": "https://assets.bucketlistly.blog/sites/5adf778b6eabcc00190b75b1/content_entry5b155bed5711a8176e9f9783/61a3727a49f308000bf5dc04/files/zanzibar-tanzania-travel-photo-20211127151333092-main-image.jpg",
+      "description": "A UNESCO World Heritage Site with narrow winding streets and buildings reflecting a mix of Arab, Persian, Indian, and European influences.",
+      "ticket": "free"
+    },
+    {
+      "name": "Spice Farm Tours",
+      "imageUrl": "https://traveldudes.com/wp-content/uploads/2023/10/Explaining-where-spice-comes-from.-Spice-Tour-Zanzibar.jpg",
+      "description": "A tour showcasing Zanzibar's rich spice trade history, with opportunities to see and taste various spices.",
+      "ticket": "https://zanzibarworld.com/half-day-tours-zanzibar/spice-farms-tour/"
+    },
+    {
+      "name": "Jozani Forest",
+      "imageUrl": "https://africafreak.com/wp-content/uploads/2023/06/Jozani-Chwaka-Bay-National-Park-main-entrance.jpeg",
+      "description": "A protected forest area where visitors can see rare species of monkeys, such as the Zanzibar Red Colobus.",
+      "ticket": "https://jozaniforest.com/tours/"
+    }
+  ]
+},
+{
+  "name": "Arusha",
+  "country": "Tanzania",
+  "attractions": [
+    {
+      "name": "Serengeti National Park",
+      "imageUrl": "https://www.serengetiparktanzania.com/wp-content/uploads/2022/03/Serengeti-National-Park-Entry-fees-for-2021.jpg",
+      "description": "Famous for its annual migration of wildebeest and its vast population of wildlife, including the 'Big Five.'",
+      "ticket": "https://www.serengeti.com/frequently-asked-questions.php#access"
+    },
+    {
+      "name": "Mount Kilimanjaro",
+      "imageUrl": "https://pictures.altai-travel.com/1920x1040/kilimanjaro-national-park-tanzania-istock-3490.jpg",
+      "description": "The highest mountain in Africa, popular for climbing expeditions with breathtaking views.",
+      "ticket": "https://www.kilimanjaroparktanzania.com/blog/kilimanjaro-tour-operators/"
+    },
+    {
+      "name": "Ngorongoro Crater",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4e/73/81/ngorongoro-crater-is.jpg?w=1200&h=-1&s=1",
+      "description": "A large volcanic crater with a unique ecosystem and diverse wildlife, including rhinos and elephants.",
+      "ticket": "https://cheetahsafaris.com/national-park/ngorongoro-conservation-area/#:~:text=Ngorongoro%20Crater%20Entrance%20Fee&text=The%20Ngorongoro%20crater%20vehicle%20entry,vehicle%20and%20not%20per%20person!"
+    }
+  ]
+},
+{
+  "name": "Bangkok",
+  "country": "Thailand",
+  "attractions": [
+    {
+      "name": "Grand Palace",
+      "imageUrl": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1713322176/ablqevggbbolmwuxwlqc.jpg",
+      "description": "The official residence of the Kings of Thailand, a stunning example of traditional Thai architecture.",
+      "ticket": "https://www.royalgrandpalace.th/en/visit/practical-information"
+    },
+    {
+      "name": "Wat Arun",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4YkkapGaVVFdaRXfZypzqcekONZ2bNNd4orvZDpq3xY9q5Vo6SAbKbZfYTjcJ8AI-ZqrSRcj_Yi2LoxPmHmCm3DS8N8K6Z9Qn6tRs1xzkjSf7FVAUoHhRKBdnQGAt_cUVOj32a2lSxp6xmyUvwcRA-DM2mzZDrcn7SDHwuNRds7ejMSg4TmFjVJKig/s1600/Wat%20Arun-14.jpg",
+      "description": "A beautiful Buddhist temple known for its stunning riverside views and intricate architectural details.",
+      "ticket": "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan"
+    },
+    {
+      "name": "Chatuchak Market",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/65/e1.jpg",
+      "description": "One of the world's largest outdoor markets, offering everything from food to clothing and antiques.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Chiang Mai",
+  "country": "Thailand",
+  "attractions": [
+    {
+      "name": "Doi Suthep",
+      "imageUrl": "https://www.thainationalparks.com/img/poi/2019/12/14/394810/doi-suthep-temple-w-900.jpg",
+      "description": "A sacred mountain temple offering panoramic views of the city and surrounding landscapes.",
+      "ticket": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep"
+    },
+    {
+      "name": "Elephant Nature Park",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b8/df/e3/elephant-nature-park.jpg?w=1200&h=-1&s=1",
+      "description": "A sanctuary for rescued elephants, promoting ethical treatment of elephants in Thailand.",
+      "ticket": "https://www.elephantnaturepark.org/"
+    },
+    {
+      "name": "Old City",
+      "imageUrl": "https://afmedia.blob.core.windows.net/blog/2021/01/chiang-mai-1670926_1920-1200x843-1024x719.jpg",
+      "description": "A historical area of Chiang Mai with ancient temples, gates, and remnants of the city's original walls.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Phuket",
+  "country": "Thailand",
+  "attractions": [
+    {
+      "name": "Patong Beach",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/11/63/50/patong.jpg?w=900&h=500&s=1",
+      "description": "A vibrant and bustling beach known for its lively atmosphere, nightlife, and water activities.",
+      "ticket": "free"
+    },
+    {
+      "name": "Big Buddha",
+      "imageUrl": "https://images.ctfassets.net/dsbipkqphva2/5hBcQIaaJVFmrZk2cIrVfS/97458bb8291076d4c0cfb95f18c44cca/big-buddha-phuket-pelago-min.jpg",
+      "description": "A giant statue offering scenic views of the island and surrounding ocean.",
+      "ticket": "free"
+    },
+    {
+      "name": "Phi Phi Islands",
+      "imageUrl": "https://hoponworld.com/wp-content/uploads/2022/08/ton-sai-pier-koh-phi-phi-.jpg",
+      "description": "An idyllic group of islands known for their crystal-clear waters and beautiful beaches, popular for boat tours.",
+      "ticket": "https://www.viator.com/Phuket-attractions/Phi-Phi-Islands/d349-a271#:~:text=Book%20tours%20and%20tickets%20to%20experience%20Phi,Free%20cancellation%20and%20payment%20options%20%2D%20Viator."
+    }
+  ]
+},
+{
+  "name": "Istanbul",
+  "country": "Turkey",
+  "attractions": [
+    {
+      "name": "Hagia Sophia",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/4faf98f955bf0a1bec668dd574d368a4-Hagiasophia-1.jpg?auto=format&w=780&h=384&q=90&fit=crop&ar=16%3A10",
+      "description": "A former church, mosque, and now a museum, known for its stunning Byzantine architecture.",
+      "ticket": "https://hagiasophia-tickets.com/?gad_source=1&gclid=CjwKCAiAw5W-BhAhEiwApv4goDOufQY7dQljjomJSZM9m5djpYkW4NxIJYHTrre-lo7sPWW-pBuVhRoCAxMQAvD_BwE"
+    },
+    {
+      "name": "Topkapi Palace",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/195d841ddf7a05564be5706fed1a2332-13472-Istanbul-SkiptheLineGuidedTourofTopkapiPalace-01.jpg?auto=format&w=780&h=384&q=90&fit=crop&ar=16%3A10",
+      "description": "The imperial palace of the Ottoman sultans, featuring lavish rooms and courtyards.",
+      "ticket": "https://topkapi-palace.com/tickets-and-audioguide-to-topkapi-palace/"
+    },
+    {
+      "name": "Basilica Cistern",
+      "imageUrl": "https://media1.thrillophilia.com/filestore/8778xuhwzegdr7j57b36kgs34fdn_shutterstock_2282280391%20(1).jpg",
+      "description": "An underground Byzantine cistern known for its eerie atmosphere and impressive architecture.",
+      "ticket": "https://www.basilicacistern.gen.tr/tickets-tours/"
+    }
+  ]
+},
+{
+  "name": "Cappadocia",
+  "country": "Turkey",
+  "attractions": [
+    {
+      "name": "Goreme National Park",
+      "imageUrl": "https://www.tripsavvy.com/thmb/rcwrAL96wl-DY9ytSUPymKiP5_c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-moon-over-love-valley--cappadocia--turkey-1289886173-50926a7587d94b2087614de50549d31f.jpg",
+      "description": "A UNESCO World Heritage site with ancient cave churches and stunning rock formations.",
+      "ticket": "https://turcotravel.com/tours/entrance-ticket-goreme"
+    },
+    {
+      "name": "Hot Air Balloon Ride",
+      "imageUrl": "https://expatstraveltogether.com/wp-content/uploads/2023/09/174351.jpg",
+      "description": "A unique experience to view the surreal landscapes of Cappadocia from the sky.",
+      "ticket": "https://www.hotairballoons-cappadocia.com/"
+    },
+    {
+      "name": "Derinkuyu Underground City",
+      "imageUrl": "https://www.pastpathways.com/wp-content/uploads/2024/05/Derinkuyu-Underground-Cave-City.jpg",
+      "description": "An ancient multi-level underground city, carved into the volcanic rock, offering a glimpse into ancient life.",
+      "ticket": "https://muze.gov.tr/muze-detay?DistId=DKY&SectionId=DKY01"
+    }
+  ]
+},
+{
+  "name": "Antalya",
+  "country": "Turkey",
+  "attractions": [
+    {
+      "name": "Old Town (Kaleiçi)",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/50/70/c5/harbour-from-lift.jpg?w=900&h=500&s=1",
+      "description": "A charming area with cobblestone streets, ancient Roman walls, and beautiful Ottoman-era buildings.",
+      "ticket": "free"
+    },
+    {
+      "name": "Duden Waterfalls",
+      "imageUrl": "https://antalyatouristinformation.com/wp-content/uploads/2021/03/yukari-duden-antalya.jpg",
+      "description": "A stunning series of waterfalls, where the Duden River flows into the Mediterranean Sea.",
+      "ticket": "https://dudenwaterfalls.com/"
+    },
+    {
+      "name": "Antalya Museum",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f0/ee/43/20191027-141321-largejpg.jpg?w=900&h=-1&s=1",
+      "description": "A museum showcasing the archaeological history of the region with impressive collections from the Roman, Byzantine, and Ottoman eras.",
+      "ticket": "https://muze.gov.tr/muze-detay?SectionId=ANT01&DistId=ANT"
+    }
+  ]
+},
+{
+  "name": "London",
+  "country": "United Kingdom",
+  "attractions": [
+    {
+      "name": "Buckingham Palace",
+      "imageUrl": "https://cdn.londonandpartners.com/asset/buckingham-palace_image-courtesy-of-royal-collection-trust-his-majesty-king-charles-iii-2022-photo-andrew-holt_247a2afaed0312ad4e8fb6142fdcdd5a.jpg",
+      "description": "The official residence of the British monarch, where visitors can watch the famous Changing of the Guard ceremony.",
+      "ticket": "https://www.rct.uk/visit/buckingham-palace"
+    },
+    {
+      "name": "The British Museum",
+      "imageUrl": "https://cdn.londonandpartners.com/asset/british-museum_museum-frontage-image-courtesy-of-the-british-museum_f0b0a5a3c53f8fc1564868c561bd167c.jpg",
+      "description": "One of the world's greatest museums, housing over 8 million works dedicated to human history, art, and culture.",
+      "ticket": "https://www.britishmuseum.org/"
+    },
+    {
+      "name": "London Eye",
+      "imageUrl": "https://www.fulltravel.it/wp-content/uploads/2024/07/London-Eye-a-Londra-Foto-U.jpg",
+      "description": "A giant Ferris wheel offering panoramic views of the London skyline and key landmarks.",
+      "ticket": "https://www.londoneye.com/tickets-and-prices/"
+    }
+  ]
+},
+{
+  "name": "Edinburgh",
+  "country": "United Kingdom",
+  "attractions": [
+    {
+      "name": "Edinburgh Castle",
+      "imageUrl": "https://www.edinburghcastle.scot/static/img/default/og-image.jpg",
+      "description": "A historic fortress on Castle Rock offering views of the city and housing the Crown Jewels of Scotland.",
+      "ticket": "https://www.edinburghcastle.scot/plan-your-visit/tickets"
+    },
+    {
+      "name": "Holyrood Palace",
+      "imageUrl": "https://cdn-imgix.headout.com/media/images/d8d5b6a8728ad1981ea945c7388dfd25-Palace%20of%20Holyroodhouse.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces",
+      "description": "The official residence of the British monarch in Scotland, surrounded by beautiful gardens.",
+      "ticket": "https://www.rct.uk/visit/palace-of-holyroodhouse"
+    },
+    {
+      "name": "Arthur's Seat",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/54/32.jpg",
+      "description": "An extinct volcano and the highest point in Holyrood Park, offering breathtaking views of Edinburgh.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Dubai",
+  "country": "United Arab Emirates",
+  "attractions": [
+    {
+      "name": "Burj Khalifa",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/ad/2c.jpg",
+      "description": "The tallest building in the world, offering a stunning 360-degree view of Dubai from its observation deck.",
+      "ticket": "https://ticket.atthetop.ae/"
+    },
+    {
+      "name": "The Dubai Mall",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg?w=1200&h=1200&s=1",
+      "description": "One of the largest shopping malls in the world, offering a variety of retail stores, attractions, and dining options.",
+      "ticket": "free"
+    },
+    {
+      "name": "Dubai Fountain",
+      "imageUrl": "https://vacatis.com/wp-content/uploads/2025/01/What-is-the-Dubai-Fountain-Show-GetYourGuide.com_.jpg",
+      "description": "A spectacular water and light show set on the artificial lake at the base of Burj Khalifa.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "attractions": [
+    {
+      "name": "Sheikh Zayed Grand Mosque",
+      "imageUrl": "https://brokennavigation.com/wp-content/uploads/2023/11/UAE_Abu_Dhabi_Sheikh_Zayed_Grand_Mosque_15.jpg",
+      "description": "An architectural masterpiece and one of the largest mosques in the world, open to visitors of all faiths.",
+      "ticket": "https://www.szgmc.gov.ae/en/individualsbookingdetailpage"
+    },
+    {
+      "name": "Louvre Abu Dhabi",
+      "imageUrl": "https://bitmap.ticketlens.com/poi/369840833/1200x1200",
+      "description": "A world-renowned art museum showcasing masterpieces from across the globe.",
+      "ticket": "https://www.louvreabudhabi.ae/en/buy-ticket"
+    },
+    {
+      "name": "Ferrari World",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e6/45/86/caption.jpg?w=1200&h=-1&s=1",
+      "description": "A thrilling theme park featuring high-speed rides and attractions themed around Ferrari cars.",
+      "ticket": "https://www.ferrariworldabudhabi.com/en/tickets"
+    }
+  ]
+},
+{
+  "name": "Hanoi",
+  "country": "Vietnam",
+  "attractions": [
+    {
+      "name": "Hoan Kiem Lake",
+      "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/62000/62552-Hoan-Kiem-Lake.jpg",
+      "description": "A peaceful lake in the heart of Hanoi, famous for its turtle legend and the iconic Ngoc Son Temple.",
+      "ticket": "free"
+    },
+    {
+      "name": "Temple of Literature",
+      "imageUrl": "https://cdn.getyourguide.com/img/location/5965db77d0922.jpeg/99.jpg",
+      "description": "A historic site dedicated to Confucius, featuring beautiful gardens and ancient architecture.",
+      "ticket": "https://vietnamdiscovery.com/hanoi/attractions/temple-of-literature/"
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/32/93/64/mausoleum.jpg?w=900&h=500&s=1",
+      "description": "The final resting place of Vietnam's revolutionary leader, Ho Chi Minh, and a significant cultural site.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "attractions": [
+    {
+      "name": "Cu Chi Tunnels",
+      "imageUrl": "https://cdn.getyourguide.com/img/tour/2b441722902672870db7a006ba1c113a3d31e72329dffde9777ff1f58e5b9bf8.jpg/146.jpg",
+      "description": "A network of tunnels used by Viet Cong soldiers during the Vietnam War, offering insight into wartime history.",
+      "ticket": "https://cuchitunnels.com.vn/"
+    },
+    {
+      "name": "War Remnants Museum",
+      "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/activities/rhs9bb4z1ztznp7tsevc/WarRemnantsMuseumTicketinHoChiMinhCity-KlookUnitedStates.jpg",
+      "description": "A museum displaying exhibits related to the Vietnam War, including photos and artifacts.",
+      "ticket": "https://baotangchungtichchientranh.vn/ticket/11/?language=en"
+    },
+    {
+      "name": "Ben Thanh Market",
+      "imageUrl": "https://localvietnam.com/wp-content/uploads/2023/06/ben-thanh-market-3.jpg",
+      "description": "A bustling market offering a wide range of goods, from fresh produce to local handicrafts.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Harare",
+  "country": "Zimbabwe",
+  "attractions": [
+    {
+      "name": "National Gallery of Zimbabwe",
+      "imageUrl": "https://momaa.org/wp-content/uploads/2019/10/National-Gallery-of-Zimbabwe.png",
+      "description": "A gallery showcasing contemporary and traditional African art, with a focus on Zimbabwean artists.",
+      "ticket": "https://nationalgallery.co.zw/visit-us/#hours_admin"
+    },
+    {
+      "name": "Mbare Market",
+      "imageUrl": "https://www.greatzimbabweguide.com/wp-content/uploads/2024/09/2010_market_Harare_Zimbabwe_5866074969_grand-tour.jpg",
+      "description": "A vibrant market where locals sell fresh produce, textiles, and various goods.",
+      "ticket": "free"
+    },
+    {
+      "name": "Harare Gardens",
+      "imageUrl": "https://images.myguide-cdn.com/zimbabwe/companies/harare-gardens/large/harare-gardens-141627.jpg",
+      "description": "A peaceful public park in the heart of Harare, perfect for picnics and relaxation.",
+      "ticket": "free"
+    }
+  ]
+},
+{
+  "name": "Victoria Falls",
+  "country": "Zimbabwe",
+  "attractions": [
+    {
+      "name": "Victoria Falls",
+      "imageUrl": "https://yellowzebrasafaris.com/media/20121/shutterstock_168416330.jpg?rxy=0.495%2C0.31565656565656564&width=2048&height=1024&format=jpg&v=1da5e146a95a5c0",
+      "description": "One of the largest and most famous waterfalls in the world, offering breathtaking views and adrenaline activities.",
+      "ticket": "https://victoriafalls.co.zm/"
+    },
+    {
+      "name": "Zambezi River",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/a7/7a.jpg",
+      "description": "A river offering various adventure activities, including white-water rafting and boat tours.",
+      "ticket": "https://www.victoriafalls-guide.net/zambezi-national-park-zimbabwe.html"
+    },
+    {
+      "name": "Mosi-oa-Tunya National Park",
+      "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/ab/ee.jpg",
+      "description": "A park home to wildlife such as elephants, rhinos, and buffalo, as well as the famous Victoria Falls.",
+      "ticket": "https://www.viator.com/Livingstone-attractions/Mosi-Oa-Tunya-National-Park/d5313-a11682"
+    }
+  ]
+}
+]
+
+ 

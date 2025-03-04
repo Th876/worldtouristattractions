@@ -1,16 +1,15 @@
 const mongoose = require('mongoose');
 
-// Define the City Schema
+// Define City Schema
 const citySchema = new mongoose.Schema({
-  name: String, // City name
+  name: String, // name of city
   country: String, // Country
   attractions: [
     {
       name: String, 
       imageUrl: String,
       description: String, 
-       // Can be a URL or "free"
-      ticket: String       
+      ticket: String // Can be a URL or "Free Admission"
     }
   ]
 });
