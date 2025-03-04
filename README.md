@@ -19,7 +19,7 @@ World Tourist Attractions API is a custom RESTful API I designed to provide info
 - **Git & GitHub**  
 - **Render.com** 
 
-## 📡 API Endpoints  
+## API Endpoints  
 
 ### Get All Cities  
 ```
@@ -75,6 +75,6 @@ http://localhost:5001/city?name=New%20York&country=United%20States
    ```
    - The API should now be available at `http://localhost:5001/`.  
 
-## 🚀 Deployment  
+## Deployment  
 The API is deployed on **Render.com**. Replace `localhost` with your deployed URL in API requests.  
 
