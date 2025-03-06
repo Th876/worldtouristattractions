@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors'); // prevent access blockage between frontend & backend
 require('dotenv').config();
-const City = require('./models/City');  
+const City = require('./models/City');
 
 const app = express();
 
@@ -11,7 +11,8 @@ const PORT = process.env.PORT || 5002;
 
 // Middleware to parse JSON data
 app.use(bodyParser.json());
-app.use(cors()); // Add this to allow cross-origin requests
+// Allow cross-origin requests
+app.use(cors()); 
 
 // Connect to MongoDB 
 mongoose.connect(process.env.MONGO_URI, {serverSelectionTimeoutMS: 10000, 
@@ -44,7 +45,6 @@ app.get('/city', async (req, res) => {
   
     try {
         const city = await City.find({
-          // find a case-insensitive match for name and country input
             name: { $regex: `^${name}$`, $options: 'i' }, 
             country: { $regex: `^${country}$`, $options: 'i' }
         });
@@ -66,8 +66,10 @@ app.post('/cities', async (req, res) => {
     console.log('Received Data:', req.body); 
 
     try {
-        let citiesToAdd = Array.isArray(req.body) ? req.body : [req.body]; // Check if data is an array, if it's single convert to an array
-        await City.insertMany(citiesToAdd); //insert many cities at once to DB
+      // Check if data is an array, if it's single convert to an array
+        let citiesToAdd = Array.isArray(req.body) ? req.body : [req.body]; 
+        //insert many cities at once to DB
+        await City.insertMany(citiesToAdd); 
         res.status(201).json({ message: 'Cities added successfully' });
     } catch (err) {
         console.error('Error adding cities:', err);
@@ -75,5 +77,10 @@ app.post('/cities', async (req, res) => {
     }
 });
 
-// Start the server
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// Start server ONLY if running the app directly (not in a test)
+if (require.main === module) {
+    app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+}
+
+// Export app for use in testing
+module.exports = app; 

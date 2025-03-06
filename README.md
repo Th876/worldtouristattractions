@@ -75,6 +75,33 @@ http://localhost:5001/city?name=New%20York&country=United%20States
    ```
    - The API should now be available at `http://localhost:5001/`.  
 
+## Testing
+
+This project uses Jest and Supertest for testing API endpoints. The tests run against an in-memory MongoDB database to prevent any interaction with the real database.
+
+### Running Tests
+
+1. Install dependencies:
+   ```bash
+   npm install
+
+## Run tests
+npm test
+
+## Challenges Faced
+
+I encountered a few challenges during the development of this project, mainly around correctly handling POST requests with multiple cities and configuring my testing environment. 
+
+### 1. Handling Multiple City Inserts
+- Initially, the POST route was set up to only insert a single city into the database. 
+- I later realized that I wanted to handle both single and multiple city inserts. The issue arose when I tried to send an array of cities, but my route was not configured to handle both single cities and arrays of cities. 
+- After fixing the POST route, I used the `Array.isArray()` method to check if the incoming data was an array so it would be compatible with the `insertMany()` method, which handles the insertion of multiple cities.
+
+### 2. Testing Setup Configuration
+- The tests were initially failing because I did not correctly separate the Express production server from the testing environment's server. 
+- Once I understood the error messages, I had to ensure the Express server could run in a testing environment by exporting the app instance to use with Jest and Supertest without invoking the `app.listen()` method, which is used only for production.
+
+
 ## Deployment  
 The API is deployed on **Render.com**. Replace `localhost` with your deployed URL in API requests.  
 
